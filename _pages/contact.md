@@ -23,4 +23,4 @@ If you're interested in my consulting services for Excel automation, dashboard d
 
 ---
 
-*Located in the Marlton, NJ area and open to remote work nationwide.*
+*Located in the Cherry Hill, NJ area and open to remote work nationwide.*
