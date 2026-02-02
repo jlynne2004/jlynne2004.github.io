@@ -1,11 +1,11 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "About Me"
+  - title: "About"
     url: "/about/"
   - title: "Portfolio"
     url: "/portfolio/"
   - title: "Services"
     url: "/services/"
-  - title: "Contact Me"
+  - title: "Contact"
     url: "/contact/"
