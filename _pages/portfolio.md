@@ -4,4 +4,4 @@ title: "Portfolio"
 layout: single
 ---
 
-Your content here...
+Check out some of my recent projects below
