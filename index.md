@@ -1,6 +1,10 @@
 ---
 layout: home
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+title: "Cost-Saving Automation Specialist"
 ---
 
 Data Analyst with 5+ years in healthcare analytics, specializing in automated reporting solutions and process improvement.
