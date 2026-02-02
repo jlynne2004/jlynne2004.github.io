@@ -1,0 +1,42 @@
+# Site Settings
+title: "Jessica Hayden"
+name: "Jessica Hayden"
+description: "Data & Reporting Analyst | Healthcare Analytics | Process Automation"
+url: "https://jlynne2004.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Author
+author:
+  name: "Jessica Hayden"
+  bio: "Data Analyst specializing in healthcare analytics and automation. 5+ years building solutions that reduce manual processes and ensure compliance."
+  location: "Cherry Hill, NJ"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jessica-hayden85/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jlynne2004/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
