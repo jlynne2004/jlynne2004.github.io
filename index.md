@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-# Cost-Saving Automation Specialist
-
 Data Analyst with 5+ years in healthcare analytics, specializing in automated reporting solutions and process improvement.
 
 **Key Achievements:**
