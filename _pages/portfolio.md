@@ -73,3 +73,4 @@ View my solutions on [Tableau Public](https://public.tableau.com/app/profile/jes
 ## Technical Demonstrations
 
 All project code and documentation available on [GitHub](https://github.com/jlynne2004). For consulting inquiries or custom analytics solutions, visit my [Services](/services/) page.
+<!-- Adding a comment to trigger rebuild -->
