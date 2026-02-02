@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="text-align: left;">
-  <img src="/images/jessica-profile.jpg" alt="Jessica Hayden headshot" style="width: 300px; max-width: 100%; border-radius: 10px; display: block; margin-bottom: 30px"></p>
+  <img src="/assets/jessica-profile.jpg" alt="Jessica Hayden headshot" style="width: 300px; max-width: 100%; border-radius: 10px; display: block; margin-bottom: 30px"></p>
   
 I'm an automation-focused Data Analyst who specializes in eliminating inefficiencies and delivering measurable business impact. Whether it's crafting a complex SQL query or automating reports with Python, I love the challenge and the "aha" moment when everything clicks. At my previous company, I single-handedly built reporting workflows that reduced manual processes by 85%—essentially delivering the output of a multi-person team through strategic automation with SQL, Python, and Power BI.
 
