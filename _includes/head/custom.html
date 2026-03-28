@@ -73,6 +73,12 @@
     margin: 1em 0;
   }
 
+  /* First section title on a page sits flush with no top gap */
+  .page__content > h2.jh-section-title:first-child,
+  .page__content > p:first-child + h2.jh-section-title {
+    margin-top: 0;
+  }
+
   /* Section titles - override theme h2 margin to sit flush */
   .jh-section-title {
     color: #1E3A5F;
