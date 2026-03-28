@@ -9,7 +9,7 @@ classes: wide
 <h2 class="jh-section-title">My Story</h2>
 
 <p style="text-align: left;">
-  <img src="/assets/jessica-profile.jpg" alt="Jess Hayden headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
+  <img src="/assets/jessica-profile.jpg" alt="Jess Hayden headshot" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
 </p>
 
 I've always loved working with spreadsheets. There's just something so satisfying about organizing data into columns and rows.
