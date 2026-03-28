@@ -1,7 +1,7 @@
 <script>
 (function () {
-  function initHomeContactForm() {
-    var form = document.getElementById('home-contact-form');
+  function initAjaxForm(formId, statusId) {
+    var form = document.getElementById(formId);
     if (!form) return;
 
     form.addEventListener('submit', function (e) {
@@ -9,7 +9,7 @@
       e.stopPropagation();
 
       var btn    = form.querySelector('.jh-btn-submit');
-      var status = document.getElementById('home-form-status');
+      var status = document.getElementById(statusId);
 
       btn.disabled    = true;
       btn.textContent = 'Sending\u2026';
@@ -51,10 +51,15 @@
     });
   }
 
+  function init() {
+    initAjaxForm('home-contact-form',  'home-form-status');
+    initAjaxForm('contact-page-form',  'contact-form-status');
+  }
+
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initHomeContactForm);
+    document.addEventListener('DOMContentLoaded', init);
   } else {
-    initHomeContactForm();
+    init();
   }
 }());
 </script>

@@ -10,9 +10,7 @@ classes: wide
 
 <div class="jh-contact-grid">
   <div>
-    <form action="https://formspree.io/f/xnjojryv" method="POST">
-      <input type="hidden" name="_subject" value="Consulting Inquiry from jesshaydenconsulting.com">
-      <!-- Honeypot spam protection -->
+    <form id="contact-page-form" action="https://formspree.io/f/xnjojryv" method="POST">
       <input type="text" name="_gotcha" style="display:none">
 
       <div class="jh-form-row">
@@ -47,6 +45,7 @@ classes: wide
         <textarea id="message" name="message" rows="6" required></textarea>
       </div>
 
+      <div id="contact-form-status"></div>
       <button type="submit" class="jh-btn-submit">Send Message</button>
     </form>
   </div>
