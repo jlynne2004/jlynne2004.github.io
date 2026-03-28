@@ -76,45 +76,74 @@ header:
 
 <div class="jh-contact-grid">
   <div>
-    <form action="https://formspree.io/f/xnjojryv" method="POST">
-      <input type="hidden" name="_subject" value="Consulting Inquiry from jesshaydenconsulting.com">
-      <!-- Honeypot spam protection -->
+    <form id="home-contact-form" action="https://formspree.io/f/xnjojryv" method="POST">
       <input type="text" name="_gotcha" style="display:none">
 
       <div class="jh-form-row">
         <div class="jh-form-field">
-          <label for="first_name">First Name <span style="color:#c0392b">*</span></label>
-          <input type="text" id="first_name" name="first_name" required>
+          <label for="h_first_name">First Name <span style="color:#c0392b">*</span></label>
+          <input type="text" id="h_first_name" name="first_name" required>
         </div>
         <div class="jh-form-field">
-          <label for="last_name">Last Name <span style="color:#c0392b">*</span></label>
-          <input type="text" id="last_name" name="last_name" required>
+          <label for="h_last_name">Last Name <span style="color:#c0392b">*</span></label>
+          <input type="text" id="h_last_name" name="last_name" required>
         </div>
       </div>
 
       <div class="jh-form-row">
         <div class="jh-form-field">
-          <label for="email">Email <span style="color:#c0392b">*</span></label>
-          <input type="email" id="email" name="email" required>
+          <label for="h_email">Email <span style="color:#c0392b">*</span></label>
+          <input type="email" id="h_email" name="email" required>
         </div>
         <div class="jh-form-field">
-          <label for="phone">Phone (optional)</label>
-          <input type="tel" id="phone" name="phone">
+          <label for="h_phone">Phone (optional)</label>
+          <input type="tel" id="h_phone" name="phone">
         </div>
       </div>
 
       <div class="jh-form-field">
-        <label for="subject">Subject</label>
-        <input type="text" id="subject" name="subject">
+        <label for="h_subject">Subject</label>
+        <input type="text" id="h_subject" name="subject">
       </div>
 
       <div class="jh-form-field">
-        <label for="message">Message <span style="color:#c0392b">*</span></label>
-        <textarea id="message" name="message" rows="5" required></textarea>
+        <label for="h_message">Message <span style="color:#c0392b">*</span></label>
+        <textarea id="h_message" name="message" rows="5" required></textarea>
       </div>
 
+      <div id="home-form-status"></div>
       <button type="submit" class="jh-btn-submit">Send Message</button>
     </form>
+    <script>
+    (function() {
+      var form = document.getElementById('home-contact-form');
+      var status = document.getElementById('home-form-status');
+      if (!form) return;
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var btn = form.querySelector('.jh-btn-submit');
+        btn.disabled = true;
+        btn.textContent = 'Sending...';
+        fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        }).then(function(res) {
+          if (res.ok) {
+            form.innerHTML = '<p style="color:#1E3A5F;font-weight:600;padding:1em 0;">Thanks for reaching out! I\'ll be in touch within 24 hours.</p>';
+          } else {
+            btn.disabled = false;
+            btn.textContent = 'Send Message';
+            status.innerHTML = '<p style="color:#c0392b;margin-top:0.5em;">Something went wrong. Please email me at <a href="mailto:jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a></p>';
+          }
+        }).catch(function() {
+          btn.disabled = false;
+          btn.textContent = 'Send Message';
+          status.innerHTML = '<p style="color:#c0392b;margin-top:0.5em;">Something went wrong. Please email me at <a href="mailto:jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a></p>';
+        });
+      });
+    })();
+    </script>
   </div>
 
   <div>
