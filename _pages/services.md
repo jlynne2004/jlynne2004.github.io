@@ -3,6 +3,7 @@ permalink: /services/
 title: "Services I Offer"
 layout: single
 author_profile: false
+classes: wide
 ---
 
 <h2 class="jh-section-title">Main Services</h2>
