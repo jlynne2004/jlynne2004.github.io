@@ -44,12 +44,11 @@ classes: wide
   </div>
 
   <div class="jh-project-links">
-    <!-- Replace # with actual GitHub repo URL when published -->
-    <a href="#" class="btn btn--info">View on GitHub</a>
+    <a href="https://github.com/jlynne2004/hipaa-deidentification-pipeline" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
     &nbsp;
-    <!-- Replace # with actual live demo URL when published -->
-    <a href="#" class="btn btn--primary">Live Demo</a>
+    <a href="https://hipaadeidentificationtoolkit.streamlit.app/" class="btn btn--primary" target="_blank" rel="noopener">Live Demo</a>
   </div>
+  <p style="font-size:0.85em; color:#666; margin-top:0.8em;"><em>Note: The demo app may take a few seconds to load if inactive. For production use with real patient data, please download the toolkit from GitHub and run it locally in your secure environment.</em></p>
 </div>
 
 ---
