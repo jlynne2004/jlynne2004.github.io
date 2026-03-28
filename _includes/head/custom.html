@@ -68,14 +68,19 @@
      Custom Section Classes
   ============================================= */
 
-  /* Section titles */
+  /* Reduce hr divider margins site-wide */
+  .page__content hr {
+    margin: 1em 0;
+  }
+
+  /* Section titles - override theme h2 margin to sit flush */
   .jh-section-title {
     color: #1E3A5F;
     font-size: 1.8em;
     border-bottom: 3px solid #1E88A8;
     padding-bottom: 0.3em;
     display: inline-block;
-    margin-top: 1.2em;
+    margin-top: 0.3em;
     margin-bottom: 0.5em;
   }
 
@@ -85,7 +90,7 @@
     border-left: 4px solid #1E88A8;
     padding: 1.5em 2em;
     border-radius: 0 4px 4px 0;
-    margin: 2em 0;
+    margin: 1em 0;
   }
   .jh-welcome ul { margin-top: 0.5em; }
 
@@ -94,7 +99,7 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5em;
-    margin: 1.5em 0 2em;
+    margin: 0.8em 0 1em;
   }
   @media (min-width: 1024px) {
     .jh-services-grid {
@@ -126,7 +131,7 @@
     background: #f0f7fb;
     border-left: 4px solid #1E88A8;
     padding: 1.5em 2em;
-    margin: 2em 0;
+    margin: 1em 0;
     border-radius: 0 4px 4px 0;
   }
   .jh-testimonial blockquote {
@@ -215,7 +220,7 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5em;
-    margin: 1.5em 0 2em;
+    margin: 0.8em 0 1em;
   }
   @media (min-width: 1024px) {
     .jh-consult-grid {
@@ -282,7 +287,7 @@
     text-align: center;
     padding: 2.5em 1em;
     border-radius: 4px;
-    margin: 2em 0;
+    margin: 1em 0;
   }
   .jh-cta-banner h3 { color: #ffffff; margin-top: 0; }
   .jh-cta-banner p { color: #a0c4d8; margin-bottom: 1.5em; }
