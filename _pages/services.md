@@ -44,7 +44,7 @@ classes: wide
 
 <h2 class="jh-section-title">Book a Consultation</h2>
 
-<p>Need targeted help fast? Book a focused consultation session. Click "Book Now" and send me an email with your availability (a few date/time options work best). I'm typically available Monday&ndash;Friday, 10am&ndash;3pm EST, but can work around your schedule. Once we confirm a time, I'll send a payment invoice. After payment is received, I'll send your meeting link and confirmation details.</p>
+<p>Need targeted help fast? Book a focused consultation session. Click <strong>Book Now</strong> and send me an email with your availability (a few date/time options work best) and the specific questions or challenges you'd like to address. I'm typically available Monday&ndash;Friday, 10am&ndash;3pm EST, but can work around your schedule. Once we confirm a time, I'll send a payment invoice. After payment is received, I'll send you a meeting link with confirmation details.</p>
 
 <div class="jh-consult-grid">
 
