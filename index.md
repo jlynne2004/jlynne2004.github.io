@@ -114,36 +114,6 @@ header:
       <div id="home-form-status"></div>
       <button type="submit" class="jh-btn-submit">Send Message</button>
     </form>
-    <script>
-    (function() {
-      var form = document.getElementById('home-contact-form');
-      var status = document.getElementById('home-form-status');
-      if (!form) return;
-      form.addEventListener('submit', function(e) {
-        e.preventDefault();
-        var btn = form.querySelector('.jh-btn-submit');
-        btn.disabled = true;
-        btn.textContent = 'Sending...';
-        fetch(form.action, {
-          method: 'POST',
-          body: new FormData(form),
-          headers: { 'Accept': 'application/json' }
-        }).then(function(res) {
-          if (res.ok) {
-            form.innerHTML = '<p style="color:#1E3A5F;font-weight:600;padding:1em 0;">Thanks for reaching out! I\'ll be in touch within 24 hours.</p>';
-          } else {
-            btn.disabled = false;
-            btn.textContent = 'Send Message';
-            status.innerHTML = '<p style="color:#c0392b;margin-top:0.5em;">Something went wrong. Please email me at <a href="mailto:jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a></p>';
-          }
-        }).catch(function() {
-          btn.disabled = false;
-          btn.textContent = 'Send Message';
-          status.innerHTML = '<p style="color:#c0392b;margin-top:0.5em;">Something went wrong. Please email me at <a href="mailto:jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a></p>';
-        });
-      });
-    })();
-    </script>
   </div>
 
   <div>
