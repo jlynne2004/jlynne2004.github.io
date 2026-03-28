@@ -32,7 +32,7 @@ When I'm not analyzing data, you'll find me cheering for the Phillies and the Ea
 
   <p><strong>Languages &amp; Tools:</strong> SQL Server, PostgreSQL, Python (pandas, numpy, openpyxl, pyodbc, Faker), Power BI, Tableau, Excel (Advanced)</p>
 
-  <p><strong>Specialties:</strong> Provider data quality, HIPAA compliance, healthcare analytics, de-duplication, ETL pipelines, database migrations</p>
+  <p><strong>Specialties:</strong> Data quality, HIPAA compliance, healthcare analytics, de-duplication, ETL pipelines, database migrations</p>
 
   <p><strong>Certifications:</strong> Microsoft Certified Data Science Professional</p>
 </div>
