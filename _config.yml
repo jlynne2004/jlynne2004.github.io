@@ -1,24 +1,33 @@
 # Site Settings
-title: "Jessica Hayden"
-description: "Data & Reporting Analyst | Healthcare Analytics | Process Automation"
+title: "Jess Hayden Consulting"
+subtitle: "Healthcare Data Solutions"
+description: "Proactive healthcare data specialist helping organizations eliminate duplicates, errors, and compliance risks."
 url: "https://jlynne2004.github.io"
 baseurl: ""
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# SEO
+og_image: "/assets/jessica-profile.jpg"
 
 # Author
 author:
-  name: "Jessica Hayden"
-  bio: "Data Analyst specializing in healthcare analytics and automation. 5+ years building solutions that reduce manual processes and ensure compliance."
-  location: "Cherry Hill, NJ"
+  name: "Jess Hayden"
+  bio: "Healthcare data specialist | SQL · Python · Power BI | HIPAA compliance | Proactive problem-solver"
+  location: "Marlton, NJ area"
+  email: "jlynne.hayden@gmail.com"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jessica-hayden85/"
+      url: "https://linkedin.com/in/jessica-hayden-85"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jlynne2004/"
+      url: "https://github.com/jlynne2004"
 
 # Defaults
 defaults:
@@ -33,7 +42,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 # Plugins
 plugins:
@@ -70,3 +79,4 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - Website_Content_for_Claude_Code.md
