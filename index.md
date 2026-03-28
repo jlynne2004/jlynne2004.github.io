@@ -4,7 +4,8 @@ title: "Proactive Healthcare Data Solutions"
 excerpt: "Eliminating duplicates, errors, and compliance risks"
 header:
   overlay_color: "#1E3A5F"
-  overlay_filter: "0.6"
+  overlay_image: /assets/hero-bg.svg
+  overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
   actions:
     - label: "View Portfolio"
       url: "/portfolio/"
