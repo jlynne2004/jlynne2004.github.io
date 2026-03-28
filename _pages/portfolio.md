@@ -3,6 +3,7 @@ permalink: /portfolio/
 title: "Featured Projects"
 layout: single
 author_profile: false
+classes: wide
 ---
 
 <p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore my work in healthcare data quality, HIPAA compliance, and analytics automation.</p>

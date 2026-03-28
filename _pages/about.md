@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 author_profile: false
+classes: wide
 ---
 
 <h2 class="jh-section-title">My Story</h2>

@@ -3,6 +3,7 @@ permalink: /contact/
 title: "Let's Talk About Your Data Challenges"
 layout: single
 author_profile: false
+classes: wide
 ---
 
 <p style="font-size:1.05em; color:#444; margin-bottom:1.5em;">Whether you need help with data quality, HIPAA compliance, or analytics automation, I'm here to help.</p>
