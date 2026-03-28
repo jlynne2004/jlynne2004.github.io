@@ -76,9 +76,7 @@ header:
 
 <div class="jh-contact-grid">
   <div>
-    <!-- Formspree contact form - replace YOUR_FORM_ID with your Formspree form ID -->
-    <!-- Sign up free at formspree.io, create a form, and paste the ID below -->
-    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <form action="https://formspree.io/f/xnjojryv" method="POST">
       <input type="hidden" name="_subject" value="Consulting Inquiry from jesshaydenconsulting.com">
       <!-- Honeypot spam protection -->
       <input type="text" name="_gotcha" style="display:none">
