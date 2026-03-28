@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Proactive Healthcare Data Solutions"
-excerpt: "Eliminating duplicates, errors, and compliance risks"
+excerpt: "Data quality, HIPAA compliance, and intelligent automation"
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
