@@ -87,7 +87,7 @@ classes: wide
   <div class="jh-project-links">
     <a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
     &nbsp;
-    <a href="#" class="btn btn--primary">Tableau Public: Coming Soon</a>
+    <a href="https://public.tableau.com/views/SlumpDogSluggersPhiladelphiaPhillies2025PerformanceAnalysis_17713144180270/PlayerPerformancebyCohort?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
   </div>
 </div>
 
