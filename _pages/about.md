@@ -17,7 +17,7 @@ I've always loved working with spreadsheets. There's just something so satisfyin
 
 But I didn't want to make a career out of it until I was analyzing GL Out of Balances for a client of InsPro Technologies and realized that I was pretty good at pattern recognition, and it was fun! Then a coworker introduced me to SQL, and I was hooked. I immediately enrolled in Microsoft's Professional Program for Data Science certification program to continue building my skillset, and my career shifted from operations to analytics.
 
-At Persante Health Care, I spent 3.5 years as the sole analyst supporting seven departments where I automated over 30 manual reporting processes and built solutions that saved hundreds of labor hours. But what I loved most was finding the problems before they became crises. I'd spot data quality issues months ahead, document them quietly, and build workarounds. When the inevitable emergency hit, the solution was already waiting.
+At Persante Health Care, I spent 3.5 years as the sole analyst supporting seven departments where I automated over 30 manual reporting processes and built solutions that saved hundreds of manual labor hours. But what I loved most was finding the problems before they became crises. I'd spot data quality issues months ahead, document them quietly, and build workarounds. When the inevitable emergency hit, the solution was already waiting.
 
 Now, as a freelance healthcare data consultant, I combine that problem-finding instinct with technical execution to help healthcare organizations nationwide tackle their messiest data challenges. I'm based in Marlton, New Jersey, and also open to the right full-time opportunity in the Philadelphia and South Jersey area.
 
