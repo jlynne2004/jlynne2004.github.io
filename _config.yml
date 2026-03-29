@@ -2,7 +2,7 @@
 title: "Jess Hayden Consulting"
 subtitle: "Healthcare Data Solutions"
 description: "Healthcare data consultant specializing in HIPAA compliance, data quality, and analytics automation. Serving clients nationwide from Marlton, NJ."
-url: "https://jlynne2004.github.io"
+url: "https://jesshaydenconsulting.com"
 baseurl: ""
 
 # Theme
@@ -47,6 +47,7 @@ defaults:
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-include-cache
 
 # Build settings
