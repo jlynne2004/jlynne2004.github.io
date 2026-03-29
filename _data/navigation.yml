@@ -1,4 +1,4 @@
-main:
+claudemain:
   - title: "Home"
     url: "/"
   - title: "Services"

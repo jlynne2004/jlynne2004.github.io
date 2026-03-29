@@ -1,6 +1,7 @@
 ---
 permalink: /portfolio/
-title: "Featured Projects"
+title: "Healthcare Data Projects & Case Studies"
+description: "Healthcare data case studies by Jess Hayden: HIPAA de-identification pipeline, provider deduplication, and analytics dashboards. Real-world data quality solutions."
 layout: single
 author_profile: false
 classes: wide
