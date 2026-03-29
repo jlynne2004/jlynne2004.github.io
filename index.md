@@ -1,6 +1,7 @@
 ---
 layout: splash
-title: "Healthcare Data Consultant"
+title: "Proactive Healthcare Data Solutions"
+seo_title: "Healthcare Data Consultant"
 description: "Jess Hayden is a healthcare data consultant specializing in HIPAA compliance, data quality solutions, and analytics automation. Available for projects and full-time roles."
 excerpt: "HIPAA compliance, data quality, and analytics automation"
 header:
@@ -23,7 +24,7 @@ header:
   <p><strong>I'm currently:</strong></p>
   <ul>
     <li>Available for remote healthcare data consulting projects (SQL development, dashboards, healthcare analytics, HIPAA compliance, and data quality)</li>
-    <li>Open to full-time opportunities in healthcare data analytics in the New Jersey and Philadelphia area</li>
+    <li>Open to full-time healthcare data analytics roles: remote nationwide or hybrid/on-site in New Jersey and Philadelphia</li>
   </ul>
   <p>Whether you're dealing with duplicate provider records, need HIPAA-compliant data transformation, or want to identify operational bottlenecks, explore my portfolio or reach out to connect.</p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
