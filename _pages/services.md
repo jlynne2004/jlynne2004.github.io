@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance.</p>
+<p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance. All services are available remotely to healthcare organizations across the country; if you're in the New Jersey or Philadelphia area, in-person collaboration is also an option.</p>
 
 <h2 class="jh-section-title">Main Services</h2>
 
@@ -61,7 +61,7 @@ classes: wide
     <h4>SQL Consultation</h4>
     <div class="jh-price-lg">$150</div>
     <div class="jh-duration">1 hour</div>
-    <p>Query optimization, troubleshooting, or learning session</p>
+    <p>Work with a SQL consultant on query optimization, troubleshooting, or skill-building.</p>
     <a href="mailto:jlynne.hayden@gmail.com?subject=SQL Consultation Booking" class="btn btn--info">Book Now</a>
   </div>
 
@@ -77,7 +77,7 @@ classes: wide
     <h4>Dashboard Consultation</h4>
     <div class="jh-price-lg">$180</div>
     <div class="jh-duration">1 hour</div>
-    <p>Review existing dashboards or plan new visualization projects</p>
+    <p>Work with a dashboard consultant to review your existing dashboards or plan new visualization projects.</p>
     <a href="mailto:jlynne.hayden@gmail.com?subject=Dashboard Consultation Booking" class="btn btn--info">Book Now</a>
   </div>
 
@@ -87,7 +87,7 @@ classes: wide
 
 <div class="jh-cta-banner">
   <h3>Ready to Get Started?</h3>
-  <p>For larger projects, schedule a free discovery call to discuss your needs, or reach out via email.</p>
+  <p>Whether you need a HIPAA compliance consultant, a data quality consultant, or a healthcare analytics partner, I'm here to help. Schedule a free discovery call or reach out via email.</p>
   <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--info" target="_blank" rel="noopener">Schedule Discovery Call</a>
   &nbsp;
   <a href="mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry" class="btn btn--primary">Email Me</a>

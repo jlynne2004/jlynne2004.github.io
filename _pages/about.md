@@ -19,7 +19,7 @@ But I didn't want to make a career out of it until I was analyzing GL Out of Bal
 
 At Persante Health Care, I spent 3.5 years as the sole analyst supporting seven departments where I automated over 30 manual reporting processes and built solutions that saved hundreds of labor hours. But what I loved most was finding the problems before they became crises. I'd spot data quality issues months ahead, document them quietly, and build workarounds. When the inevitable emergency hit, the solution was already waiting.
 
-Now I combine that problem-finding instinct with technical execution to help healthcare organizations tackle their messiest data challenges while staying open to the right full-time opportunity.
+Now, as a freelance healthcare data consultant, I combine that problem-finding instinct with technical execution to help healthcare organizations nationwide tackle their messiest data challenges. I'm based in Marlton, New Jersey, and also open to the right full-time opportunity in the Philadelphia and South Jersey area.
 
 When I'm not analyzing data, you'll find me cheering for the Phillies and the Eagles (even when they break my heart), playing clarinet (30 years and counting), and escaping into fictional worlds when reality gets too much.
 
@@ -34,7 +34,7 @@ When I'm not analyzing data, you'll find me cheering for the Phillies and the Ea
 
   <p><strong>Languages &amp; Tools:</strong> SQL Server, PostgreSQL, Python (pandas, numpy, openpyxl, pyodbc, Faker), Power BI, Tableau, Excel (Advanced)</p>
 
-  <p><strong>Specialties:</strong> Data quality, HIPAA compliance, healthcare analytics, de-duplication, ETL pipelines, database migrations</p>
+  <p><strong>Specialties:</strong> Data quality consulting, HIPAA compliance, healthcare analytics, provider data deduplication, data automation, ETL pipelines, database migrations</p>
 
   <p><strong>Certifications:</strong> Microsoft Certified Data Science Professional</p>
 </div>

@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore my work in healthcare data quality, HIPAA compliance, and analytics automation.</p>
+<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore my work in healthcare data quality, HIPAA compliance, provider data deduplication, and healthcare analytics.</p>
 
 <a href="/assets/Jessica_Hayden_Resume.pdf" class="btn btn--primary" target="_blank">Download Resume</a>
 

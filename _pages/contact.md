@@ -73,4 +73,4 @@ classes: wide
 
 ---
 
-<p style="font-size:0.9em; color:#666; text-align:center; margin-top:2em;"><em>Located in the Marlton, NJ area &bull; Open to remote work nationwide</em></p>
+<p style="font-size:0.9em; color:#666; text-align:center; margin-top:2em;"><em>Located in Marlton, NJ (Philadelphia metro area) &bull; Available for remote healthcare data consulting nationwide</em></p>

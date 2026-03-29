@@ -22,8 +22,8 @@ header:
   <p>With 5+ years of experience across healthcare and insurance analytics, I specialize in finding the problems nobody sees and fixing them before they become crises. From deduplicating provider data to building HIPAA-compliant de-identification pipelines, I focus on proactive problem-solving that keeps operations running smoothly.</p>
   <p><strong>I'm currently:</strong></p>
   <ul>
-    <li>Available for consulting projects (SQL development, dashboards, healthcare analytics, HIPAA compliance, and data quality)</li>
-    <li>Open to full-time opportunities in healthcare data analytics</li>
+    <li>Available for remote healthcare data consulting projects (SQL development, dashboards, healthcare analytics, HIPAA compliance, and data quality)</li>
+    <li>Open to full-time opportunities in healthcare data analytics in the New Jersey and Philadelphia area</li>
   </ul>
   <p>Whether you're dealing with duplicate provider records, need HIPAA-compliant data transformation, or want to identify operational bottlenecks, explore my portfolio or reach out to connect.</p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
