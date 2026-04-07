@@ -1,3 +1,18 @@
+<!-- Domain enforcement: redirect HTTP → HTTPS and www → non-www -->
+<script>
+  (function() {
+    var h = window.location.hostname;
+    var p = window.location.protocol;
+    if (p === 'http:' || h === 'www.jesshaydenconsulting.com') {
+      var target = 'https://jesshaydenconsulting.com'
+        + window.location.pathname
+        + window.location.search
+        + window.location.hash;
+      window.location.replace(target);
+    }
+  })();
+</script>
+
 <!-- Open Graph / Social Media Preview -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title | escape }}">

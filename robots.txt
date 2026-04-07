@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# Old URLs that no longer exist - prevent crawling
+Disallow: /our-services
+Disallow: /about-jess
+Disallow: /my-services/
+
 Sitemap: https://jesshaydenconsulting.com/sitemap.xml
