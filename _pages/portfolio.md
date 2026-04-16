@@ -55,6 +55,46 @@ classes: wide
 ---
 
 <div class="jh-project">
+  <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
+
+  <span class="jh-star-label">Situation</span>
+  <p>Organizations need dashboards that provide quick, actionable insights without overwhelming stakeholders with unnecessary complexity. Effective dashboard design requires balancing visual appeal with functional decision support.</p>
+
+  <span class="jh-star-label">Task</span>
+  <p>Design and build two business intelligence dashboards as my final project for IBM's Data Visualization course - one for sales performance tracking and another for service operations monitoring.</p>
+
+  <span class="jh-star-label">Action</span>
+  <ul>
+    <li>Built two interactive dashboards in Google Data Studio analyzing auto sales and service data</li>
+    <li>Sales Dashboard: Designed KPI scorecards (Profit, Quantity Sold, Average Quantity) with performance analysis by model and dealer to provide executive summary insights at a glance</li>
+    <li>Service Dashboard: Created operations monitoring with recall tracking, customer sentiment visualization (treemap), profit/quantity trends over time (combo chart), and root cause analysis via pivot table heatmap</li>
+    <li>Applied dashboard design principles: choosing appropriate visualizations for different data types, designing for user workflow, and prioritizing clarity over decoration</li>
+    <li>Earned 100% on final project evaluation</li>
+  </ul>
+
+  <span class="jh-star-label">Result</span>
+  <ul>
+    <li>Created production-quality dashboards demonstrating end-to-end BI workflow</li>
+    <li>Developed practical understanding of visualization selection (when to use scorecards vs. charts vs. heatmaps)</li>
+    <li>Built reusable dashboard patterns applicable to healthcare quality metrics and operational monitoring</li>
+    <li>Earned IBM Data Visualization and Dashboards certificate</li>
+  </ul>
+
+  <div class="jh-tools">
+    <strong>Tools:</strong> Google Data Studio, dashboard design, KPI development, data visualization, business intelligence
+  </div>
+
+  <div class="jh-project-links">
+    <a href="https://www.coursera.org/account/accomplishments/verify/VIWT9WKIZDSM" class="btn btn--primary" target="_blank" rel="noopener">View Certificate</a>
+  </div>
+
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Sales tab.png" alt="Sales Dashboard" style="max-width:100%; margin-top:1em;" /></p>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Service tab.png" alt="Service Dashboard" style="max-width:100%; margin-top:1em;" /></p>
+</div>
+
+---
+
+<div class="jh-project">
   <h3>Slump Dog Sluggers &mdash; Philadelphia Phillies Performance Analysis</h3>
 
   <span class="jh-star-label">Situation</span>
