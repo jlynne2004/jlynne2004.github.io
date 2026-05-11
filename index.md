@@ -111,13 +111,7 @@ header:
       </div>
 
       <div id="home-form-status"></div>
-      <button type="submit" class="jh-btn-submit {
-	background-color: #1a5276 !important;
-	color: #ffffff !important;
-	border: none;
-	padding: 12px 24px;
-	cursor: pointer;
-      }">Send Message</button>
+      <button type="submit" style="background-color: #1a5276; color: #ffffff; border: none; padding: 12px 24px; cursor: pointer; width: 100%;">Send Message</button>
     </form>
   </div>
 
