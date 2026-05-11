@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p style="font-size:1.05em; color:#444; margin-bottom:1.5em;">Whether you need help with data quality, HIPAA compliance, or analytics automation, I'm here to help.</p>
+<p style="font-size:1.05em; color:#444; margin-bottom:1.5em;">Whether you need help with data quality, HIPAA compliance, or analytics automation, let's talk.</p>
 
 <div class="jh-contact-grid">
   <div>
@@ -47,7 +47,7 @@ classes: wide
       </div>
 
       <div id="contact-form-status"></div>
-      <button type="submit" class="jh-btn-submit">Send Message</button>
+      <button type="submit" style="background-color: #1a5276; color: #ffffff; border: none; padding: 12px 24px; cursor: pointer; width: 100%;">Send Message</button>
     </form>
   </div>
 
