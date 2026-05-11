@@ -13,11 +13,9 @@ classes: wide
   <img src="/assets/jessica-profile.jpg" alt="Jess Hayden, healthcare data specialist and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
 </p>
 
-I didn't set out to work in data. I've always enjoyed working with spreadsheets though. There's just something so satisfying about organizing data into columns and rows!
+I've always enjoyed playing with spreadsheets. There's just something so satisfying about organizing data into columns and rows. But I did realize it could become a career until was analyzing GL Out of Balances for a client of InsPro Technologies that I realized that I was genuinely good at pattern recognition. Then a coworker introduced me to SQL, and that was it — I was hooked!
 
-I didn't want to make a career out of it until I was analyzing GL Out of Balances for a client of InsPro Technologies and realized that I was genuinely good at pattern recognition, and it was fun! Then a coworker introduced me to SQL, and that was it — I was hooked!
-
-What started as curiosity turned into a career built on finding problems before they find you. At Persante Health Care, I spent 3.5 years as the sole analyst supporting seven departments — automating over 30 manual reporting processes, rebuilding broken pipelines under pressure, and teaching myself new tools mid-project when the work required it. What I loved most wasn't the automation itself, it was spotting the data quality issue three months before it became a crisis, quietly documenting it, and having the solution ready before anyone knew there was a problem. solutions that saved hundreds of manual labor hours. But what I loved most was finding the problems before they became crises.
+What started as curiosity turned into a career built on finding problems before they find you. At Persante Health Care, I spent 3.5 years as the sole analyst supporting seven departments — automating over 30 manual reporting processes, rebuilding broken pipelines under pressure, and teaching myself new tools mid-project when the work required it. What I loved most wasn't the automation itself, it was spotting a data quality issue three months before it became a crisis, quietly documenting it, and having the solution ready before anyone knew there was a problem.
 
 That instinct to find it early, fix it right, and build it to last is what I bring to every engagement through Jess Hayden Consulting. I work with healthcare organizations to clean messy data, build HIPAA-compliant pipelines, and automate the reporting workflows that are quietly eating your team's time.
 
