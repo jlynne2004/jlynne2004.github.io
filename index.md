@@ -19,8 +19,9 @@ header:
 
 <div class="jh-welcome">
   <h2 class="jh-section-title">Welcome</h2>
-  <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix. Duplicate provider records quietly break patient matching, manual reports accumulate hours of unnecessary work, and HIPAA gaps sit undetected until an audit finds them.</p>
-  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep operations running smoothly.</p>
+  <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix.</p> 
+  <p>Duplicate provider records that quietly break patient matching, manual reports that accumulate hours of unnecessary work, or HIPAA gaps that sit undetected until an audit finds them. Sound familiar?</p>
+  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant, and your team out of firefighting mode.</p>
   <p><em>Turning chaos into clarity, one dataset at a time.</em></p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
 </div>
