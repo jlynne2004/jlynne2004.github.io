@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance. All services are available remotely to healthcare organizations across the country; if you're in the New Jersey or Philadelphia area, in-person collaboration is also an option.</p>
+<p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance. All services are available remotely to healthcare organizations nationwide.</p>
 
 <h2 class="jh-section-title">Main Services</h2>
 
@@ -45,7 +45,7 @@ classes: wide
 
 <h2 class="jh-section-title">Book a Consultation</h2>
 
-<p>Need targeted help fast? For the Free Discovery Call, click <strong>Book Now</strong> to schedule directly on Calendly. For paid consultation sessions, click <strong>Book Now</strong> to send me an email with your availability (a few date/time options work best) and the specific questions or challenges you'd like to address. I'm typically available Monday&ndash;Friday, 10am&ndash;3pm EST, but can work around your schedule. Once we confirm a time, I'll send a payment invoice. After payment is received, I'll send you a meeting link with confirmation details.</p>
+<p>Book directly via Calendly for the free discovery call. For paid sessions, email me at <a href="jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a> to schedule.</p>
 
 <div class="jh-consult-grid">
 
