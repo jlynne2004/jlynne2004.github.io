@@ -81,7 +81,7 @@ classes: wide
   </ul>
 
   <div class="jh-tools">
-    <strong>Tools:</strong> Google Data Studio, dashboard design, KPI development, data visualization, business intelligence
+    <strong>Tools:</strong> Looker Studio, dashboard design, KPI development, data visualization, business intelligence
   </div>
 
   <div class="jh-project-links">
@@ -107,11 +107,10 @@ classes: wide
 
   <span class="jh-star-label">Action</span>
   <ul>
-    <li>Collected and cleaned player performance data for the 2024&ndash;2025 Phillies seasons</li>
+    <li>Collected and cleaned player performance data for the 2025 Phillies seasons</li>
     <li>Designed multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows)</li>
-    <li>Built interactive Power BI dashboard to visualize performance trends by player and age group</li>
+    <li>Built interactive Power BI and Tableau dashboards to visualize performance trends by player and age group</li>
     <li>Applied statistical analysis to test age-decline hypotheses</li>
-    <li>Currently rebuilding in Tableau to add interactive parameter controls for dynamic timeframe selection</li>
   </ul>
 
   <span class="jh-star-label">Result</span>
@@ -129,7 +128,7 @@ classes: wide
   <div class="jh-project-links">
     <a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
     &nbsp;
-    <a href="https://public.tableau.com/views/SlumpDogSluggersPhiladelphiaPhillies2025PerformanceAnalysis_17713144180270/PlayerPerformancebyCohort?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
+    <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
   </div>
 </div>
 
@@ -155,7 +154,7 @@ classes: wide
 
   <span class="jh-star-label">Result</span>
   <ul>
-    <li>Restored accurate patient-provider matching for 1,200+ affected records</li>
+    <li>Restored accurate patient-provider matching for 1,500+ affected records</li>
     <li>Eliminated queue assignment failures that were delaying patient care</li>
     <li>Identified and documented issue 3 months before it escalated to crisis level</li>
     <li>Solution was production-ready when executive leadership escalated the problem</li>
