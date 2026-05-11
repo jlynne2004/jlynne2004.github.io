@@ -19,14 +19,9 @@ header:
 
 <div class="jh-welcome">
   <h2 class="jh-section-title">Welcome</h2>
-  <p>Thanks for stopping by! I'm Jess, a healthcare data specialist who turns messy data into reliable, compliant solutions.</p>
-  <p>With 5+ years of experience across healthcare and insurance analytics, I specialize in finding the problems nobody sees and fixing them before they become crises. From deduplicating provider data to building HIPAA-compliant de-identification pipelines, I focus on proactive problem-solving that keeps operations running smoothly.</p>
-  <p><strong>I'm currently:</strong></p>
-  <ul>
-    <li>Available for remote healthcare data consulting projects (SQL development, dashboards, healthcare analytics, HIPAA compliance, and data quality)</li>
-    <li>Open to full-time healthcare data analytics roles: remote nationwide or hybrid/on-site in New Jersey and Philadelphia</li>
-  </ul>
-  <p>Whether you're dealing with duplicate provider records, need HIPAA-compliant data transformation, or want to identify operational bottlenecks, explore my portfolio or reach out to connect.</p>
+  <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix. Duplicate provider records quietly break patient matching, manual reports accumulate hours of unnecessary work, and HIPAA gaps sit undetected until an audit finds them.</p>
+  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep operations running smoothly.</p>
+  <p><em>Turning chaos into clarity, one dataset at a time.</em></p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
 </div>
 
