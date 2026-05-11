@@ -112,8 +112,8 @@ header:
 
       <div id="home-form-status"></div>
       <button type="submit" class="jh-btn-submit {
-	background-color: #1a5276;
-	color: #ffffff;
+	background-color: #1a5276 !important;
+	color: #ffffff !important;
 	border: none;
 	padding: 12px 24px;
 	cursor: pointer;
