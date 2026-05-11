@@ -122,7 +122,7 @@ classes: wide
   </ul>
 
   <div class="jh-tools">
-    <strong>Tools:</strong> Power BI, SQL Server, Excel, statistical analysis, Tableau (in progress)
+    <strong>Tools:</strong> Power BI, Tableaus, SQL Server, Excel, statistical analysis
   </div>
 
   <div class="jh-project-links">
