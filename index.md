@@ -40,6 +40,7 @@ header:
 ---
 
 <h2 class="jh-section-title">Services I Offer</h2>
+<p><em>Save time, reduce errors, and get insights faster.</em></p>
 
 <div class="jh-services-grid">
 
@@ -60,7 +61,6 @@ header:
   <div class="jh-service-card">
     <h3>&#128200; Healthcare Analytics &amp; Automation</h3>
     <p>Stop wasting hours on manual reporting. I transform repetitive data processes into automated solutions using SQL and Python, including custom dashboards and visualizations built to fit your workflow, whether that means Python, Power BI, Tableau, or Looker Studio.</p>
-    <p>Save time, reduce errors, and get insights faster.</p>
     <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Dashboard projects typically 3&ndash;6 weeks &nbsp;|&nbsp; Project-based pricing available</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
