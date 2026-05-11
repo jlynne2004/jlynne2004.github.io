@@ -21,9 +21,20 @@ header:
   <h2 class="jh-section-title">Welcome</h2>
   <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix.</p> 
   <p>Duplicate provider records that quietly break patient matching, manual reports that accumulate hours of unnecessary work, or HIPAA gaps that sit undetected until an audit finds them. Sound familiar?</p>
-  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant, and your team out of firefighting mode.</p>
+  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant — and your team out of firefighting mode.</p>
   <p><em>Turning chaos into clarity, one dataset at a time.</em></p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
+</div>
+
+---
+
+<h2 class="jh-section-title">Success Stories</h2>
+
+<div class="jh-testimonial">
+  <blockquote>
+    "Jessica is highly intelligent, passionate about work and real easy to work with. She and I worked on time-sensitive projects in the recent past. She is extremely thorough in her analysis of the process of flow and customizing it to make it better. She charted out the entire process with minimal help from other groups. Best wishes always."
+  </blockquote>
+  <cite>-- Mehul Rana</cite>
 </div>
 
 ---
@@ -48,22 +59,12 @@ header:
 
   <div class="jh-service-card">
     <h3>&#128200; Healthcare Analytics &amp; Automation</h3>
-    <p>Stop wasting hours on manual reporting. I transform repetitive data processes into automated solutions using SQL, Python, and visualization tools like Power BI and Tableau. Save time, reduce errors, and get insights faster.</p>
+    <p>Stop wasting hours on manual reporting. I transform repetitive data processes into automated solutions using SQL and Python, including custom dashboards and visualizations built to fit your workflow, whether that means Python, Power BI, Tableau, or Looker Studio.</p>
+    <p>Save time, reduce errors, and get insights faster.</p>
     <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Dashboard projects typically 3&ndash;6 weeks &nbsp;|&nbsp; Project-based pricing available</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
-</div>
-
----
-
-<h2 class="jh-section-title">Success Stories</h2>
-
-<div class="jh-testimonial">
-  <blockquote>
-    "Jessica is highly intelligent, passionate about work and real easy to work with. She and I worked on time-sensitive projects in the recent past. She is extremely thorough in her analysis of the process of flow and customizing it to make it better. She charted out the entire process with minimal help from other groups. Best wishes always."
-  </blockquote>
-  <cite>-- Mehul Rana</cite>
 </div>
 
 ---
