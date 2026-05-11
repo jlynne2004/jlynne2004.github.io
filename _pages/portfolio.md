@@ -65,7 +65,7 @@ classes: wide
 
   <span class="jh-star-label">Action</span>
   <ul>
-    <li>Built two interactive dashboards in Google Data Studio analyzing auto sales and service data</li>
+    <li>Built two interactive dashboards in Looker Studio analyzing auto sales and service data</li>
     <li>Sales Dashboard: Designed KPI scorecards (Profit, Quantity Sold, Average Quantity) with performance analysis by model and dealer to provide executive summary insights at a glance</li>
     <li>Service Dashboard: Created operations monitoring with recall tracking, customer sentiment visualization (treemap), profit/quantity trends over time (combo chart), and root cause analysis via pivot table heatmap</li>
     <li>Applied dashboard design principles: choosing appropriate visualizations for different data types, designing for user workflow, and prioritizing clarity over decoration</li>
