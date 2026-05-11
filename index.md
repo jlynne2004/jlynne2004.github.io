@@ -21,7 +21,7 @@ header:
   <h2 class="jh-section-title">Welcome</h2>
   <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix.</p> 
   <p>Duplicate provider records that quietly break patient matching, manual reports that accumulate hours of unnecessary work, or HIPAA gaps that sit undetected until an audit finds them. Sound familiar?</p>
-  <p>Hi, I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant — and your team out of firefighting mode.</p>
+  <p>Hi! I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant — and your team out of firefighting mode.</p>
   <p><em>Turning chaos into clarity, one dataset at a time.</em></p>
   <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
 </div>
@@ -71,7 +71,7 @@ header:
 
 <h2 id="contact" class="jh-section-title">Let's Talk About Your Data Challenges</h2>
 
-<p>Whether you need help with data quality, HIPAA compliance, or analytics automation, I'm here to help. Fill out the form below or schedule a free discovery call.</p>
+<p>Whether you need help with data quality, HIPAA compliance, or analytics automation, let's talk.</p>
 
 <div class="jh-contact-grid">
   <div>
@@ -111,7 +111,13 @@ header:
       </div>
 
       <div id="home-form-status"></div>
-      <button type="submit" class="jh-btn-submit">Send Message</button>
+      <button type="submit" class="jh-btn-submit {
+	background-color: #1a5276;
+	color: #ffffff;
+	border: none;
+	padding: 12px 24px;
+	cursor: pointer;
+      }">Send Message</button>
     </form>
   </div>
 
@@ -119,8 +125,7 @@ header:
     <div class="jh-contact-box">
       <h4>Prefer to schedule a call?</h4>
       <p>Skip the form and book a free 30-minute discovery call to discuss your project.</p>
-      <!-- Replace # with your Calendly URL once set up -->
-      <a href="#" class="btn btn--primary">Schedule Discovery Call</a>
+      <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary">Schedule Discovery Call</a>
     </div>
 
     <div class="jh-contact-box">
