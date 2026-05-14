@@ -7,46 +7,30 @@ author_profile: false
 classes: wide
 ---
 
-<p style="font-size:1.05em; color:#444; margin-bottom:1.5em;">Whether you need help with data quality, HIPAA compliance, or analytics automation, let's talk.</p>
+<p> Fill out the form below or use the links on the side to connect.</p>
 
 <div class="jh-contact-grid">
   <div>
-    <form id="contact-page-form" action="https://formspree.io/f/xnjojryv" method="POST">
+    <form id="home-contact-form" action="https://formspree.io/f/xnjojryv" method="POST">
       <input type="text" name="_gotcha" style="display:none">
 
       <div class="jh-form-row">
         <div class="jh-form-field">
-          <label for="first_name">First Name <span style="color:#c0392b">*</span></label>
-          <input type="text" id="first_name" name="first_name" required>
+          <label for="h_first_name">Your Name <span style="color:#c0392b">*</span></label>
+          <input type="text" id="h_first_name" name="first_name" required>
         </div>
         <div class="jh-form-field">
-          <label for="last_name">Last Name <span style="color:#c0392b">*</span></label>
-          <input type="text" id="last_name" name="last_name" required>
-        </div>
-      </div>
-
-      <div class="jh-form-row">
-        <div class="jh-form-field">
-          <label for="email">Email <span style="color:#c0392b">*</span></label>
-          <input type="email" id="email" name="email" required>
-        </div>
-        <div class="jh-form-field">
-          <label for="phone">Phone (optional)</label>
-          <input type="tel" id="phone" name="phone">
+          <label for="h_email">Email Address<span style="color:#c0392b">*</span></label>
+          <input type="email" id="h_email" name="email" required>
         </div>
       </div>
 
       <div class="jh-form-field">
-        <label for="subject">Subject</label>
-        <input type="text" id="subject" name="subject">
+        <label for="h_message">Tell me about your data project or ask me a question. <span style="color:#c0392b">*</span></label>
+        <textarea id="h_message" name="message" rows="5" required></textarea>
       </div>
 
-      <div class="jh-form-field">
-        <label for="message">Message <span style="color:#c0392b">*</span></label>
-        <textarea id="message" name="message" rows="6" required></textarea>
-      </div>
-
-      <div id="contact-form-status"></div>
+      <div id="home-form-status"></div>
       <button type="submit" style="background-color: #1a5276; color: #ffffff; border: none; padding: 12px 24px; cursor: pointer; width: 100%;">Send Message</button>
     </form>
   </div>
