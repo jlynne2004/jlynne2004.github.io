@@ -18,17 +18,32 @@ header:
 ---
 <h2 class="jh-section-title">Reliable Healthcare Analytics Start With Reliable Processes</h2>
 <div class="jh-card">
-  <img src="solution-icon.png" alt="Solution Dscription" class="card-img">
+  <img src="solution-icon.png" alt="From reporting workflows to analytics automation, reliable healthcare data starts with processes designed to reduce friction and improve consistency." class="card-img">
+  <div class="card-content">
+    <h3>Data Quality Issues</h3>
+    <p>Incomplete, mismatched, or unreliable data can impact operational visibility and decision-making.</p>
+    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
+  </div>
   <div class="card-content">
     <h3>Reporting Bottlenecks</h3>
     <p>Manual reporting workflows slow down operations and increase the risk of inconsistent data delivery.</p>
-    <a href="jesshaydenconsulting.com/services class="card-button">Learn More</a>
+    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
+  </div>
+  <div class="card-content">
+    <h3>Compliance & Data Handling</h3>
+    <p>Healthcare data workflows require accuracy, consistency, and HIPAA-conscious processes from the start.</p>
+    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
+  </div>
+  <div class="card-content">
+    <h3>Workflow Inefficiencies</h3>
+    <p>Disconnected systems and repetitive manual tasks create unnecessary overhead for healthcare teams.</p>
+    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
   </div>
 </div>
 
 ---
 
-<h2 class="jh-section-title">Success Stories</h2>
+<h2 class="jh-section-title">Professional Recommendation</h2>
 
 <div class="jh-testimonial">
   <blockquote>
