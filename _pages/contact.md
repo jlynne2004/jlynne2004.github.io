@@ -55,15 +55,14 @@ classes: wide
     <div class="jh-contact-box">
       <h4>Prefer to schedule a call?</h4>
       <p>Skip the form and book a free 30-minute discovery call to discuss your project.</p>
-      <!-- Replace # with your Calendly URL once set up -->
-      <a href="#" class="btn btn--primary">Schedule Discovery Call</a>
+      <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule Discovery Call</a>
     </div>
 
     <div class="jh-contact-box">
       <h4>Other ways to connect:</h4>
       <p>
-        &#128231; <a href="mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry">jlynne.hayden@gmail.com</a><br><br>
-        &#128188; <a href="https://linkedin.com/in/jessica-hayden-85" target="_blank" rel="noopener">LinkedIn</a><br><br>
+        &#128231; <a href="mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry">jlynne.hayden@gmail.com</a><br>
+        &#128188; <a href="https://linkedin.com/in/jessica-hayden-85" target="_blank" rel="noopener">LinkedIn</a><br>
         &#128187; <a href="https://github.com/jlynne2004" target="_blank" rel="noopener">GitHub</a>
       </p>
       <p style="font-size:0.9em; color:#666;">I typically respond within 24 hours on weekdays.</p>
@@ -73,4 +72,4 @@ classes: wide
 
 ---
 
-<p style="font-size:0.9em; color:#666; text-align:center; margin-top:2em;"><em>Located in Marlton, NJ (Philadelphia metro area) &bull; Available for remote healthcare data consulting nationwide</em></p>
+<p style="font-size:0.9em; color:#666; text-align:center; margin-top:2em;"><em>Located in the Philadelphia metro area &bull; Available for remote healthcare data consulting nationwide</em></p>

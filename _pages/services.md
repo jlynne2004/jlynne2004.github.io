@@ -20,7 +20,7 @@ classes: wide
     <p>Clean and normalize messy data across varying formats (CSV, Excel, JSON, XML, pipe-delimited). Eliminate duplicates, identify data quality issues, and ensure accurate record matching.</p>
     <p><strong>What you get:</strong> De-duplicated records, data remediation, gap analysis, database migration support</p>
     <div class="jh-price">Starting at $95/hour &nbsp;|&nbsp; Typically 2&ndash;4 weeks &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
   </div>
 
   <div class="jh-service-card">
@@ -28,7 +28,7 @@ classes: wide
     <p>Build secure, compliant data pipelines and transformation workflows. Handle PHI/PII data properly with automated de-identification and compliance validation.</p>
     <p><strong>What you get:</strong> De-identification pipelines, compliance reporting, Safe Harbor implementation, PHI/PII handling</p>
     <div class="jh-price">Starting at $130/hour &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
   </div>
 
   <div class="jh-service-card">
@@ -36,7 +36,7 @@ classes: wide
     <p>Turn manual reporting processes into automated solutions. Build dashboards, analyze patient flow metrics, and identify operational bottlenecks.</p>
     <p><strong>What you get:</strong> SQL automation, Power BI/Tableau dashboards, ETL pipelines, clinical performance metrics</p>
     <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Dashboard projects typically 3&ndash;6 weeks &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
   </div>
 
 </div>
@@ -45,7 +45,7 @@ classes: wide
 
 <h2 class="jh-section-title">Book a Consultation</h2>
 
-<p>Book directly via Calendly for the free discovery call. For paid sessions, email me at <a href="jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a> to schedule.</p>
+<p>Book directly via Zoom Scheduler for the free discovery call. For paid sessions, email me at <a href="jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a> to schedule.</p>
 
 <div class="jh-consult-grid">
 
@@ -54,7 +54,7 @@ classes: wide
     <div class="jh-price-lg">Free</div>
     <div class="jh-duration">30 minutes</div>
     <p>Get to know each other and discuss your data challenges</p>
-    <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Book Now</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Book Now</a>
   </div>
 
   <div class="jh-consult-card">
@@ -88,7 +88,7 @@ classes: wide
 <div class="jh-cta-banner">
   <h3>Ready to Get Started?</h3>
   <p>Whether you need a HIPAA compliance consultant, a data quality consultant, or a healthcare analytics partner, I'm here to help. Schedule a free discovery call or reach out via email.</p>
-  <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--info" target="_blank" rel="noopener">Schedule Discovery Call</a>
+  <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info" target="_blank" rel="noopener">Schedule Discovery Call</a>
   &nbsp;
   <a href="mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry" class="btn btn--primary">Email Me</a>
 </div>

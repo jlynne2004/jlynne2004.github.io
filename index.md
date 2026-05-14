@@ -119,7 +119,7 @@ header:
     <div class="jh-contact-box">
       <h4>Prefer to schedule a call?</h4>
       <p>Skip the form and book a free 30-minute discovery call to discuss your project.</p>
-      <a href="https://calendly.com/jlynne-hayden/discovery-call" class="btn btn--primary">Schedule Discovery Call</a>
+      <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule Discovery Call</a>
     </div>
 
     <div class="jh-contact-box">
