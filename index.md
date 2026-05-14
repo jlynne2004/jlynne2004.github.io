@@ -19,43 +19,8 @@ header:
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
 <p>Healthcare reporting and analytics depend on more than just dashboards and data pulls. Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
 <p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
-<!-- <div class="jh-card">
-  <img src="solution-icon.png" alt="From reporting workflows to analytics automation, reliable healthcare data starts with processes designed to reduce friction and improve consistency." class="card-img">
-  <div class="card-content">
-    <h3>Data Quality Issues</h3>
-    <p>Incomplete, mismatched, or unreliable data can impact operational visibility and decision-making.</p>
-    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
-  </div>
-  <div class="card-content">
-    <h3>Reporting Bottlenecks</h3>
-    <p>Manual reporting workflows slow down operations and increase the risk of inconsistent data delivery.</p>
-    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
-  </div>
-  <div class="card-content">
-    <h3>Compliance & Data Handling</h3>
-    <p>Healthcare data workflows require accuracy, consistency, and HIPAA-conscious processes from the start.</p>
-    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
-  </div>
-  <div class="card-content">
-    <h3>Workflow Inefficiencies</h3>
-    <p>Disconnected systems and repetitive manual tasks create unnecessary overhead for healthcare teams.</p>
-    <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
-  </div>
-</div> -->
 
 ---
-
-<h2 class="jh-section-title">Recommendations & Testimonials</h2>
-
-<div class="jh-testimonial">
-  <blockquote>
-    "Jessica is highly intelligent, passionate about work and real easy to work with. She and I worked on time-sensitive projects in the recent past. She is extremely thorough in her analysis of the process of flow and customizing it to make it better. She charted out the entire process with minimal help from other groups. Best wishes always."
-  </blockquote>
-  <cite>-- Mehul Rana (independent software consultant)</cite>
-</div>
-
----
-
 <h2 class="jh-section-title">Services I Offer</h2>
 <p>Specialized healthcare data solutions designed to improve reporting reliability, workflow efficiency, and operational visibility.</p>
 
@@ -85,7 +50,16 @@ header:
 </div>
 
 ---
+<h2 class="jh-section-title">Recommendations & Testimonials</h2>
 
+<div class="jh-testimonial">
+  <blockquote>
+    "Jessica is highly intelligent, passionate about work and real easy to work with. She and I worked on time-sensitive projects in the recent past. She is extremely thorough in her analysis of the process of flow and customizing it to make it better. She charted out the entire process with minimal help from other groups. Best wishes always."
+  </blockquote>
+  <cite>-- Mehul Rana (independent software consultant)</cite>
+</div>
+
+---
 <h2 id="contact" class="jh-section-title">Let's Talk About Your Data Challenges</h2>
 
 <p>Whether you need help with data quality, HIPAA compliance, or analytics automation, let's talk.</p>
