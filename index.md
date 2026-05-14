@@ -103,6 +103,7 @@ header:
         &#128188; <a href="https://linkedin.com/in/jessica-hayden-85" target="_blank" rel="noopener">LinkedIn</a><br>
         &#128187; <a href="https://github.com/jlynne2004" target="_blank" rel="noopener">GitHub</a>
       </p>
+      <p style="font-size:0.9em; color:#666;">I typically respond within 24 hours on weekdays.</p>
     </div>
   </div>
 </div>
