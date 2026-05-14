@@ -17,7 +17,9 @@ header:
       btn_class: "btn--info"
 ---
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
-<div class="jh-card">
+<p>Healthcare reporting and analytics depend on more than just dashboards and data pulls. Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
+<p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
+<!-- <div class="jh-card">
   <img src="solution-icon.png" alt="From reporting workflows to analytics automation, reliable healthcare data starts with processes designed to reduce friction and improve consistency." class="card-img">
   <div class="card-content">
     <h3>Data Quality Issues</h3>
@@ -39,7 +41,7 @@ header:
     <p>Disconnected systems and repetitive manual tasks create unnecessary overhead for healthcare teams.</p>
     <a href="jesshaydenconsulting.com/services" class="card-button">Learn More</a>
   </div>
-</div>
+</div> -->
 
 ---
 
@@ -55,28 +57,28 @@ header:
 ---
 
 <h2 class="jh-section-title">Services I Offer</h2>
-<p><em>Save time, reduce errors, and get insights faster.</em></p>
+<p>Specialized healthcare data solutions designed to improve reporting reliability, workflow efficiency, and operational visibility.</p>
 
 <div class="jh-services-grid">
 
   <div class="jh-service-card">
-    <h3>&#128269; Data Quality Solutions</h3>
-    <p>Messy data costs you time, money, and trust. I help organizations clean and standardize their data by eliminating duplicates, fixing inconsistencies, and ensuring accurate record matching across multiple systems and formats.</p>
-    <div class="jh-price">Starting at $95/hour &nbsp;|&nbsp; Typically 2&ndash;4 weeks &nbsp;|&nbsp; Project-based pricing available</div>
+    <h3>Data Quality Solutions</h3>
+    <p>Improve reporting reliability and operational confidence through structured data validation, process review, and workflow-focused quality solutions.</p>
+    <div class="jh-price">Starting at $95/hour &nbsp;|&nbsp; Project-based pricing available</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
-    <h3>&#128274; HIPAA-Compliant Data Solutions</h3>
-    <p>Handling healthcare data comes with serious compliance requirements. I build secure de-identification pipelines, implement proper PHI/PII handling, and ensure your data transformation processes meet HIPAA Safe Harbor standards.</p>
+    <h3>Secure Data Workflows</h3>
+    <p>Support safer healthcare data handling through structured workflows, process standardization, and HIPAA-conscious operational practices.</p>
     <div class="jh-price">Starting at $130/hour &nbsp;|&nbsp; Project-based pricing available</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
-    <h3>&#128200; Healthcare Analytics &amp; Automation</h3>
-    <p>Stop wasting hours on manual reporting. I transform repetitive data processes into automated solutions using SQL and Python, including custom dashboards and visualizations built to fit your workflow, whether that means Python, Power BI, Tableau, or Looker Studio.</p>
-    <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Dashboard projects typically 3&ndash;6 weeks &nbsp;|&nbsp; Project-based pricing available</div>
+    <h3>Reporting Process Optimization</h3>
+    <p>Streamline reporting processes and reduce manual workload through analytics-focused workflow automation and operational reporting support.</p>
+    <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Project-based pricing available</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
