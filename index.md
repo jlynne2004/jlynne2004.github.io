@@ -61,7 +61,7 @@ header:
 
 ---
 <h2 id="contact" class="jh-section-title">Ready To Make Your Analytics Reliable?</h2>
-<p> Fill out the form below or use the links on the side to schedule a free discovery call, send me an email, or check out my LinkedIn and GitHub.</p>
+<p> Fill out the form below or use the links on the side to connect.</p>
 
 <div class="jh-contact-grid">
   <div>
