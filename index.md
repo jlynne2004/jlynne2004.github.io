@@ -16,14 +16,14 @@ header:
       url: "#contact"
       btn_class: "btn--info"
 ---
-
-<div class="jh-welcome">
-  <h2 class="jh-section-title">Welcome</h2>
-  <p>Most problems don't announce themselves before it's too late, and you're bleeding money on a quick fix.</p> 
-  <p>Duplicate provider records that quietly break patient matching, manual reports that accumulate hours of unnecessary work, or HIPAA gaps that sit undetected until an audit finds them. Sound familiar?</p>
-  <p>Hi! I'm Jess, a healthcare data specialist who finds those problems before they find you. With over five years of experience automating reporting infrastructure, cleaning provider data, and building HIPAA-compliant pipelines, I build proactive solutions that keep your data clean and compliant — and your team out of firefighting mode.</p>
-  <p><em>Turning chaos into clarity, one dataset at a time.</em></p>
-  <p><a href="/about/" class="btn btn--primary">Learn More About Me</a></p>
+<h2 class="jh-section-title">Reliable Healthcare Analytics Start With Reliable Processes</h2>
+<div class="jh-card">
+  <img src="solution-icon.png" alt="Solution Dscription" class="card-img">
+  <div class="card-content">
+    <h3>Reporting Bottlenecks</h3>
+    <p>Manual reporting workflows slow down operations and increase the risk of inconsistent data delivery.</p>
+    <a href="jesshaydenconsulting.com/services class="card-button">Learn More</a>
+  </div>
 </div>
 
 ---
