@@ -60,9 +60,7 @@ header:
 </div>
 
 ---
-<h2 id="contact" class="jh-section-title">Ready to make your analytics reliable?</h2>
-
-<!-- <p>Whether you need help with data quality, secure data workflows, or optimizing your reporting workflows, let's talk.</p> -->
+<h2 id="contact" class="jh-section-title">Ready To Make Your Analytics Reliable?</h2>
 
 <div class="jh-contact-grid">
   <div>
