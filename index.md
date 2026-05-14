@@ -60,9 +60,9 @@ header:
 </div>
 
 ---
-<h2 id="contact" class="jh-section-title">Let's Talk About Your Data Challenges</h2>
+<h2 id="contact" class="jh-section-title">Ready to make your analytics reliable?</h2>
 
-<p>Whether you need help with data quality, HIPAA compliance, or analytics automation, let's talk.</p>
+<!-- <p>Whether you need help with data quality, secure data workflows, or optimizing your reporting workflows, let's talk.</p> -->
 
 <div class="jh-contact-grid">
   <div>
