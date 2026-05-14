@@ -16,9 +16,9 @@ header:
       url: "#contact"
       btn_class: "btn--info"
 ---
-<h2 class="jh-section-title">Reliable Healthcare Analytics Start With Reliable Processes</h2>
+<h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
 <div class="jh-card">
-  <img src="solution-icon.png" alt="From reporting workflows to analytics automation, reliable healthcare data starts with processes designed to reduce friction and improve consistency." class="card-img">
+  <img src="&#x1F6E1;" alt="From reporting workflows to analytics automation, reliable healthcare data starts with processes designed to reduce friction and improve consistency." class="card-img">
   <div class="card-content">
     <h3>Data Quality Issues</h3>
     <p>Incomplete, mismatched, or unreliable data can impact operational visibility and decision-making.</p>
