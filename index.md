@@ -61,6 +61,7 @@ header:
 
 ---
 <h2 id="contact" class="jh-section-title">Ready To Make Your Analytics Reliable?</h2>
+<p> Fill out the form below or use the links on the side to schedule a free discovery call, send me an email, or check out my LinkedIn and GitHub.</p>
 
 <div class="jh-contact-grid">
   <div>
@@ -69,33 +70,17 @@ header:
 
       <div class="jh-form-row">
         <div class="jh-form-field">
-          <label for="h_first_name">First Name <span style="color:#c0392b">*</span></label>
+          <label for="h_first_name">Your Name <span style="color:#c0392b">*</span></label>
           <input type="text" id="h_first_name" name="first_name" required>
         </div>
         <div class="jh-form-field">
-          <label for="h_last_name">Last Name <span style="color:#c0392b">*</span></label>
-          <input type="text" id="h_last_name" name="last_name" required>
-        </div>
-      </div>
-
-      <div class="jh-form-row">
-        <div class="jh-form-field">
-          <label for="h_email">Email <span style="color:#c0392b">*</span></label>
+          <label for="h_email">Email Address<span style="color:#c0392b">*</span></label>
           <input type="email" id="h_email" name="email" required>
         </div>
-        <div class="jh-form-field">
-          <label for="h_phone">Phone (optional)</label>
-          <input type="tel" id="h_phone" name="phone">
-        </div>
       </div>
 
       <div class="jh-form-field">
-        <label for="h_subject">Subject</label>
-        <input type="text" id="h_subject" name="subject">
-      </div>
-
-      <div class="jh-form-field">
-        <label for="h_message">Message <span style="color:#c0392b">*</span></label>
+        <label for="h_message">Tell me about your data project or ask me a question. <span style="color:#c0392b">*</span></label>
         <textarea id="h_message" name="message" rows="5" required></textarea>
       </div>
 
