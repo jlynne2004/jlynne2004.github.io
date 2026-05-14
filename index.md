@@ -43,13 +43,13 @@ header:
 
 ---
 
-<h2 class="jh-section-title">Professional Recommendation</h2>
+<h2 class="jh-section-title">Recommendations & Testimonials</h2>
 
 <div class="jh-testimonial">
   <blockquote>
     "Jessica is highly intelligent, passionate about work and real easy to work with. She and I worked on time-sensitive projects in the recent past. She is extremely thorough in her analysis of the process of flow and customizing it to make it better. She charted out the entire process with minimal help from other groups. Best wishes always."
   </blockquote>
-  <cite>-- Mehul Rana</cite>
+  <cite>-- Mehul Rana (independent software consultant)</cite>
 </div>
 
 ---
