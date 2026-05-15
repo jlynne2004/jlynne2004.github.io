@@ -44,13 +44,13 @@ classes: wide
   <p>Duplicate physician records from inconsistent data entry were causing patients to appear in wrong provider queues, disrupting care coordination and creating operational bottlenecks.</p>
 
   <span class="jh-star-label">What I Built</span>
-  <p>Identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions. Tracking the issue in an Excel spreadsheet for documentation.</p>
+  <p>Identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions.</p>
 
   <span class="jh-star-label">The Result</span>
   <p>Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
 
   <div class="jh-tools">
-    <strong>Tools:</strong> SQL Server, T-SQL, data profiling, gap analysis, cross-functional stakeholder management
+    <strong>Tools:</strong> SQL Server, T-SQL, Python, Microsoft Excel, data profiling, gap analysis, cross-functional stakeholder management
   </div>
 </div>
 
