@@ -93,12 +93,14 @@ classes: wide
 
 *Slump Dog Sluggers* - a Tableau Public dashboard using a PostgreSQL database that tracked individual Philadelphia Phillies' batting performance during the 2025 season. Designed a multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows) to try and test how big of a factor does age play in a player's ability to bounce back from a slump.
 
-<p>View <a href="https://github.com/jlynne2004/slump-dog-sluggers">GitHub Repo </a></p>
-<p>View Interactive Dashboard on <a href="tinyurl.com/slump-dog-sluggers" >Tableau Public</a></p>
+View <a href="https://github.com/jlynne2004/slump-dog-sluggers">GitHub Repo </a>.
+View Interactive Dashboard on <a href="tinyurl.com/slump-dog-sluggers" >Tableau Public</a>.
+---
 
 *The $97.7M Hit Drought Tracker* - a Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.
 
 View the tracker here: <a href="https://phillies-85m-drought-tracker.streamlit.app/">Streamlit</a>
+---
 
 **Workout Wednesday Challenges**
 
