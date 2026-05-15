@@ -64,9 +64,9 @@ header:
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
-  <p>Not ready to commit to a full project? Check out my <a href=>"https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
 
 </div>
+<p>Not ready to commit to a full project? Check out my <a href=>"https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
 
 ---
 <h2 class="jh-section-title">Recommendations & Testimonials</h2>
