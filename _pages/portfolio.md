@@ -63,44 +63,6 @@ classes: wide
 ---
 
 <div class="jh-project">
-  <h3>Slump Dog Sluggers &mdash; Philadelphia Phillies Performance Analysis</h3>
-
-  <span class="jh-star-label">Situation</span>
-  <p>Baseball analytics often assume age-related decline follows predictable patterns, but real-world player performance can be more nuanced. I wanted to test whether age actually correlates with performance decline across a full season.</p>
-
-  <span class="jh-star-label">Task</span>
-  <p>Build an analytical framework to track individual player performance over time and identify whether age-related patterns exist in the data.</p>
-
-  <span class="jh-star-label">Action</span>
-  <ul>
-    <li>Collected and cleaned player performance data for the 2025 Phillies seasons</li>
-    <li>Designed multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows)</li>
-    <li>Built interactive Power BI and Tableau dashboards to visualize performance trends by player and age group</li>
-    <li>Applied statistical analysis to test age-decline hypotheses</li>
-  </ul>
-
-  <span class="jh-star-label">Result</span>
-  <ul>
-    <li>Identified that performance patterns were more complex than simple age-based decline</li>
-    <li>Discovered that slumps and hot streaks showed stronger correlation to external factors than age</li>
-    <li>Created analytical framework applicable to any sports performance analysis</li>
-    <li>Demonstrated ability to challenge assumptions with data-driven insights</li>
-  </ul>
-
-  <div class="jh-tools">
-    <strong>Tools:</strong> Power BI, Tableaus, SQL Server, Excel, statistical analysis
-  </div>
-
-  <div class="jh-project-links">
-    <a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
-    &nbsp;
-    <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
-  </div>
-</div>
-
----
-
-<div class="jh-project">
   <h3>Provider Data Deduplication Case Study</h3>
 
   <span class="jh-star-label">Situation</span>
@@ -134,6 +96,21 @@ classes: wide
 ---
 
 <h2 class="jh-section-title">Additional Work</h2>
+
+**Fun, Personal Projects**
+
+*Slump Dog Sluggers* - a Tableau Public dashboard using a PostgreSQL database that tracked individual Philadelphia Phillies' batting performance during the 2025 season. Designed a multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows) to try and test how big of a factor does age play in a player's ability to bounce back from a slump.
+
+<div class="jh-project-links">
+    <a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
+    &nbsp;
+    <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
+  </div>
+</div>
+
+*The $97.7M Hit Drought Tracker* - a Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.
+
+View the tracker here: <a href="https://phillies-85m-drought-tracker.streamlit.app/">Streamlit</a>
 
 **Workout Wednesday Challenges**
 
