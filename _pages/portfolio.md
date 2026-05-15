@@ -42,9 +42,9 @@ classes: wide
 <div class="jh-project">
   <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
 
-  <p>As part of the coursework for Coursera's <strong>IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Google Data (Looker) Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course. Using their auto sales dataset, I created a dashboard for sales performance tracking and the other for service operations monitoring.</p>
+  <p>As part of the coursework for <strong>Coursera's IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Looker Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course. Using their auto sales dataset, I created a dashboard for sales performance tracking and the other for service operations monitoring.</p>
   <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting.</p> 
-  <p>I also earned 100% on the final project evaluation and wanted to show it off. &#128513;</p>
+  <p>I also earned 100% on the final project evaluation, earning a certification for that course, and wanted to show them off. &#128513;</p>
 
   <div class="jh-tools">
     <strong>Tools:</strong> Looker Studio, dashboard design, KPI development, data visualization, business intelligence
