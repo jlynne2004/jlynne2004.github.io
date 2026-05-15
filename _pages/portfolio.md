@@ -42,8 +42,14 @@ classes: wide
 <div class="jh-project">
   <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
 
-  <p>As part of the coursework for <strong>Coursera's IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Looker Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course. Using their auto sales dataset, I created a dashboard for sales performance tracking and the other for service operations monitoring.</p>
-  <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting.</p> 
+  <span class="jh-star-label">The Problem</span>
+  <p>As part of the coursework for <strong>Coursera's IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Looker Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course.</p>
+  
+  <span class="jh-star-label">What I Built</span>
+  <p>Using the provided auto sales dataset, I created two dashboards: one for sales performance tracking and the other for service operations monitoring.</p>
+
+  <span class="jh-star-label">The Result</span>
+  <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting in multiple industries.</p> 
   <p>I also earned 100% on the final project evaluation, earning a certification for that course, and wanted to show them off. &#128513;</p>
 
   <div class="jh-tools">
@@ -65,28 +71,14 @@ classes: wide
 <div class="jh-project">
   <h3>Provider Data Deduplication Case Study</h3>
 
-  <span class="jh-star-label">Situation</span>
-  <p>Duplicate physician records from inconsistent data entry across multiple systems were causing patients to appear in wrong provider queues, disrupting care coordination and creating operational bottlenecks.</p>
+  <span class="jh-star-label">The Problem</span>
+  <p>Duplicate physician records from inconsistent data entry were causing patients to appear in wrong provider queues, disrupting care coordination and creating operational bottlenecks.</p>
 
-  <span class="jh-star-label">Task</span>
-  <p>Identify the root cause of duplicate records, quantify the scope of the problem, and develop both immediate workarounds and long-term solutions.</p>
+  <span class="jh-star-label">What I Built</span>
+  <p>Using an Excel spreadsheet, I identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions.</p>
 
-  <span class="jh-star-label">Action</span>
-  <ul>
-    <li>Mapped physician data tables across three inbound data sources (CSV, Excel, pipe-delimited files)</li>
-    <li>Analyzed patterns in naming conventions, misspellings, and location-change duplicates</li>
-    <li>Built SQL-based deduplication logic using temp tables as immediate workaround</li>
-    <li>Documented root causes and presented findings to cross-functional team (clinical, IT, operations)</li>
-    <li>Led remediation project to implement permanent fixes</li>
-  </ul>
-
-  <span class="jh-star-label">Result</span>
-  <ul>
-    <li>Restored accurate patient-provider matching for 1,500+ affected records</li>
-    <li>Eliminated queue assignment failures that were delaying patient care</li>
-    <li>Identified and documented issue 3 months before it escalated to crisis level</li>
-    <li>Solution was production-ready when executive leadership escalated the problem</li>
-  </ul>
+  <span class="jh-star-label">The Result</span>
+  <p>Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
 
   <div class="jh-tools">
     <strong>Tools:</strong> SQL Server, T-SQL, data profiling, gap analysis, cross-functional stakeholder management
@@ -101,12 +93,7 @@ classes: wide
 
 *Slump Dog Sluggers* - a Tableau Public dashboard using a PostgreSQL database that tracked individual Philadelphia Phillies' batting performance during the 2025 season. Designed a multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows) to try and test how big of a factor does age play in a player's ability to bounce back from a slump.
 
-<div class="jh-project-links">
-    <a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a>
-    &nbsp;
-    <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a>
-  </div>
-</div>
+<a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a> or <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a> 
 
 *The $97.7M Hit Drought Tracker* - a Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.
 
@@ -120,4 +107,4 @@ View my solutions on [Tableau Public](https://public.tableau.com/app/profile/jes
 
 ---
 
-All project code and documentation available on [GitHub](https://github.com/jlynne2004){:target="_blank"}. For consulting inquiries or custom analytics solutions, visit my [Services](/services/) page.
+All project code and documentation available on [GitHub](https://github.com/jlynne2004){:target="_blank"}.
