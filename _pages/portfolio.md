@@ -16,29 +16,14 @@ classes: wide
 <div class="jh-project">
   <h3>HIPAA De-Identification Pipeline</h3>
 
-  <span class="jh-star-label">Situation</span>
+  <span class="jh-star-label">The Problem</span>
   <p>Healthcare organizations need to analyze patient data for operational insights, but strict HIPAA regulations prevent the use of identifiable patient information (PHI/PII) outside of production systems.</p>
 
-  <span class="jh-star-label">Task</span>
-  <p>Build a compliant, reusable de-identification solution that allows healthcare data to be safely used for analytics while meeting HIPAA Safe Harbor standards.</p>
+  <span class="jh-star-label">What I Built:</span>
+  <p>A reusable Python toolkit that automatically de-identifies patient data to meet HIPAA Safe Harbor standards.</p>
 
-  <span class="jh-star-label">Action</span>
-  <ul>
-    <li>Designed end-to-end de-identification pipeline using PostgreSQL and Python (Faker library)</li>
-    <li>Implemented automated PHI/PII detection across 18 HIPAA identifiers</li>
-    <li>Built role-based access controls to manage who can view original vs. de-identified data</li>
-    <li>Created compliance scoring system to validate Safe Harbor requirements</li>
-    <li>Developed user-friendly Streamlit interface for non-technical users</li>
-    <li>Documented full methodology and compliance validation process</li>
-  </ul>
-
-  <span class="jh-star-label">Result</span>
-  <ul>
-    <li>Produced production-ready toolkit that ensures HIPAA Safe Harbor compliance</li>
-    <li>Reduced de-identification time from manual (hours) to automated (minutes)</li>
-    <li>Created reusable solution applicable across any healthcare organization</li>
-    <li>Published open-source project demonstrating healthcare data governance expertise</li>
-  </ul>
+  <span class="jh-star-label">The Result</span>
+  <p>Reduced de-identification time from hours to minutes with a production-ready, open-source toolkit now available to any healthcare organization.</p>
 
   <div class="jh-tools">
     <strong>Tools:</strong> PostgreSQL, Python (pandas, Faker, pyodbc), Streamlit, HIPAA Safe Harbor standards
