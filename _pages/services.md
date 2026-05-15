@@ -1,7 +1,7 @@
 ---
 permalink: /services/
 title: "Healthcare Data Consulting Services"
-description: "Healthcare data consulting services: HIPAA compliance, data quality solutions, and analytics automation. Expert SQL and Python development, Power BI and Tableau dashboards."
+description: "HIPAA-compliant pipelines, data quality solutions, and reporting automation for small healthcare orgs and nonprofits. Free discovery call to scope your project."
 layout: single
 author_profile: false
 classes: wide

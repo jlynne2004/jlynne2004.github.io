@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 seo_title: "About Jess Hayden"
-description: "Meet Jess Hayden, healthcare data specialist based in Marlton, NJ. 5+ years in healthcare analytics, HIPAA compliance, and data quality. SQL, Python, and Power BI expert."
+description: "Healthcare data specialist with 5+ years automating reporting, fixing data quality, and building HIPAA-compliant workflows for healthcare orgs and nonprofits."
 layout: single
 author_profile: false
 classes: wide

@@ -1,7 +1,8 @@
 ---
 permalink: /contact/
 title: "Contact Jess Hayden Consulting"
-description: "Hire a healthcare data consultant. Contact Jess Hayden for HIPAA compliance, data quality, and analytics projects. Book a free 30-minute discovery call today."
+seo_title: "Contact Jess Hayden"
+description: "Contact Jess Hayden Consulting for reporting automation, data quality fixes, and HIPAA compliance help. Free 30-min discovery call for healthcare orgs and nonprofits."
 layout: single
 author_profile: false
 classes: wide
