@@ -32,9 +32,9 @@ When I'm not analyzing data, you'll find me cheering for the Phillies and the Ea
 <div class="jh-skills-box">
   <h3>Technical Skills</h3>
 
-  <p><strong>Languages &amp; Tools:</strong> SQL Server, Azure Data Studio, T-SQL, PostgreSQL, Python (pandas, numpy, openpyxl, pyodbc, smtplib, matplotlib), Power BI, Tableau, Excel (formulas, pivot tables, VLOOKUP), Git, C# (working knowledge)</p>
+  <p><strong>Languages &amp; Tools:</strong> SQL Server, PostgreSQL, Python, Power BI, Tableau, Excel (advanced), Git</p>
 
-  <p><strong>Specialties:</strong> Data quality consulting, HIPAA compliance, healthcare analytics, reporting automation, provider data deduplication, data automation, ETL pipelines, database migrations</p>
+  <p><strong>Specialties:</strong> Reporting automation, data quality, HIPAA compliance, healthcare analytics, ETL pipelines</p>
 
   <p><strong>Certifications:</strong> SQL (Basic) | HackerRank (2026) · IBM Data Analyst Professional Certificate (in progress)</p>
 </div>
