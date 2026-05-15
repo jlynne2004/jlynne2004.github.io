@@ -21,7 +21,7 @@ header:
 <p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
 
 ---
-<h2 class="jh-section-title">Services I Offer</h2>
+<h2 class="jh-section-title">Service Offerings</h2>
 <p>Specialized healthcare data solutions designed to improve reporting reliability, workflow efficiency, and operational visibility.</p>
 
 <div class="jh-services-grid">
