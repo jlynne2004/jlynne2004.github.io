@@ -3,16 +3,16 @@ layout: splash
 title: "Proactive Healthcare Data Solutions"
 seo_title: "Healthcare Data Consultant"
 description: "Jess Hayden is a healthcare data consultant specializing in HIPAA compliance, data quality solutions, and analytics automation. Available for projects and full-time roles."
-excerpt: "HIPAA compliance, data quality, and analytics automation"
+excerpt: "I help small and mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious so your staff can focus on patients, not spreadsheets."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
   overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
   actions:
-    - label: "View Portfolio"
+    - label: "See my work"
       url: "/portfolio/"
       btn_class: "btn--primary"
-    - label: "Schedule Consultation"
+    - label: "Schedule a free consultation"
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
 ---
