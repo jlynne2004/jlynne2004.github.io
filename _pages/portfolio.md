@@ -7,9 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Take a look at some of the projects I've worked on. Download my resume if you want to know more about my professional experiences.</p>
-
-<a href="/assets/Jessica_Hayden_Resume.pdf" class="btn btn--primary" target="_blank">Download Resume</a>
+<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on and the tools I used to solve them.</p>
 
 ---
 
