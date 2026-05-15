@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on and the tools I used to solve them.</p>
+<p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on throughout my career and the tools I used to solve them.</p>
 
 ---
 
