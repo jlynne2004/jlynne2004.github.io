@@ -19,7 +19,7 @@ classes: wide
   <span class="jh-star-label">The Problem</span>
   <p>Healthcare organizations need to analyze patient data for operational insights, but strict HIPAA regulations prevent the use of identifiable patient information (PHI/PII) outside of production systems.</p>
 
-  <span class="jh-star-label">What I Built:</span>
+  <span class="jh-star-label">What I Built</span>
   <p>A reusable Python toolkit that automatically de-identifies patient data to meet HIPAA Safe Harbor standards.</p>
 
   <span class="jh-star-label">The Result</span>
@@ -42,28 +42,9 @@ classes: wide
 <div class="jh-project">
   <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
 
-  <span class="jh-star-label">Situation</span>
-  <p>Organizations need dashboards that provide quick, actionable insights without overwhelming stakeholders with unnecessary complexity. Effective dashboard design requires balancing visual appeal with functional decision support.</p>
-
-  <span class="jh-star-label">Task</span>
-  <p>Design and build two business intelligence dashboards as my final project for IBM's Data Visualization course - one for sales performance tracking and another for service operations monitoring.</p>
-
-  <span class="jh-star-label">Action</span>
-  <ul>
-    <li>Built two interactive dashboards in Looker Studio analyzing auto sales and service data</li>
-    <li>Sales Dashboard: Designed KPI scorecards (Profit, Quantity Sold, Average Quantity) with performance analysis by model and dealer to provide executive summary insights at a glance</li>
-    <li>Service Dashboard: Created operations monitoring with recall tracking, customer sentiment visualization (treemap), profit/quantity trends over time (combo chart), and root cause analysis via pivot table heatmap</li>
-    <li>Applied dashboard design principles: choosing appropriate visualizations for different data types, designing for user workflow, and prioritizing clarity over decoration</li>
-    <li>Earned 100% on final project evaluation</li>
-  </ul>
-
-  <span class="jh-star-label">Result</span>
-  <ul>
-    <li>Created production-quality dashboards demonstrating end-to-end BI workflow</li>
-    <li>Developed practical understanding of visualization selection (when to use scorecards vs. charts vs. heatmaps)</li>
-    <li>Built reusable dashboard patterns applicable to healthcare quality metrics and operational monitoring</li>
-    <li>Earned IBM Data Visualization and Dashboards certificate</li>
-  </ul>
+  <p>As part of the coursework for Coursera's <strong>IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Google Data (Looker) Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course. Using their auto sales dataset, I created a dashboard for sales performance tracking and the other for service operations monitoring.</p>
+  <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting.</p> 
+  <p>I also earned 100% on the final project evaluation and wanted to show it off. &#128513;</p>
 
   <div class="jh-tools">
     <strong>Tools:</strong> Looker Studio, dashboard design, KPI development, data visualization, business intelligence
