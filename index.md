@@ -31,8 +31,8 @@ header:
     <div class="stat-label">reduction in manual work</div>
   </div>
   <div class="stat">
-    <div class="stat-num">7 depts</div>
-    <div class="stat-label">supported simultaneously</div>
+    <div class="stat-num">1,500+</div>
+    <div class="stat-label">duplicate physician ids removed</div>
   </div>
 </div>
 
