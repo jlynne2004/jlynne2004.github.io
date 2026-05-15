@@ -32,7 +32,7 @@ header:
   </div>
   <div class="stat">
     <div class="stat-num">1,500+</div>
-    <div class="stat-label">duplicate records identified and removed</div>
+    <div class="stat-label">duplicate records eliminated</div>
   </div>
 </div>
 
@@ -44,22 +44,23 @@ header:
 
   <div class="jh-service-card">
     <h3>Data Quality Solutions</h3>
-    <p>Improve reporting reliability and operational confidence through structured data validation, process review, and workflow-focused quality solutions.</p>
-    <div class="jh-price">Starting at $95/hour &nbsp;|&nbsp; Project-based pricing available</div>
+    <p>Does your data have duplicate records, missing fields, inconsistent formats, outdated or inactive records?</p>
+    <p><strong>What I'll do:</strong> Clean the data, identify the cause of the issue, and put checks in place so it doesn't happen again.</p>
+    <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
     <h3>Secure Data Workflows</h3>
     <p>Support safer healthcare data handling through structured workflows, process standardization, and HIPAA-conscious operational practices.</p>
-    <div class="jh-price">Starting at $130/hour &nbsp;|&nbsp; Project-based pricing available</div>
+    <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
     <h3>Reporting Process Optimization</h3>
     <p>Streamline reporting processes and reduce manual workload through analytics-focused workflow automation and operational reporting support.</p>
-    <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Project-based pricing available</div>
+    <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
