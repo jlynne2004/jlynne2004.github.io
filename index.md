@@ -38,31 +38,33 @@ header:
 
 ---
 <h2 class="jh-section-title">What I Offer</h2>
-<p>Check out my services below:</p>
 
 <div class="jh-services-grid">
 
   <div class="jh-service-card">
     <h3>Data Quality Solutions</h3>
     <p>Does your data have duplicate records, missing fields, inconsistent formats, outdated or inactive records?</p>
-    <p><strong>What I'll do:</strong> Clean the data, identify the cause of the issue, and put checks in place so it doesn't happen again.</p>
+    <p><strong>What I'll Do:</strong> Clean the data, identify the cause of your messy data, and put checks in place so it doesn't happen again.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
     <h3>Secure Data Workflows</h3>
-    <p>Support safer healthcare data handling through structured workflows, process standardization, and HIPAA-conscious operational practices.</p>
+    <p>Are you unsure if your patient data is being handled correctly? Is there no documented process for handling PHI within your organization? Is your staff sharing files in ways that create risk?</p>
+    <p><strong>What I'll Do:</strong> Build secure, documented workflows for handling patient data so your organization stays HIPAA-conscious.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
 
   <div class="jh-service-card">
     <h3>Reporting Process Optimization</h3>
-    <p>Streamline reporting processes and reduce manual workload through analytics-focused workflow automation and operational reporting support.</p>
+    <p>Manually pulling reports, SQL queries that take forever to run, emailing spreadsheets back and forth &ndash; all taking up valuable bandwidth.
+    <p><strong>What I'll Do:</strong> Build an automated process, optimizing your SQL scripts, that runs on a schedule, is accurate, and doesn't require any manual oversight.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
+  <p>Not ready to commit to a full project? Check out my <a href=>"https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
 
 </div>
 
