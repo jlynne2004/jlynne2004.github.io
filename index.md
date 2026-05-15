@@ -3,7 +3,7 @@ layout: splash
 title: "Proactive Healthcare Data Solutions"
 seo_title: "Healthcare Data Consultant"
 description: "Jess Hayden is a healthcare data consultant specializing in HIPAA compliance, data quality solutions, and analytics automation. Available for projects and full-time roles."
-excerpt: "I help small and mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious – so your staff can focus on patients, not spreadsheets."
+excerpt: "Helping small to mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious – so their staff can focus on patients, not spreadsheets."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
@@ -18,8 +18,8 @@ header:
 ---
 
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
-<p>Healthcare reporting and analytics depend on more than just dashboards and data pulls. Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
-<p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
+<p>Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
+<p>With over 5 years of experience in healthcare analytics, I've seen what unreliable data can do to an organization: claim denials, lost revenue, delayed care. My approach focuses on improving the workflows behind the data – fixing reporting processes, cleaning up quality issues, and reducing the manual processes taking up your team's time. Every solution I build is practical, documented, and designed to last.</p>
 
 <div class="stat-row">
   <div class="stat">
@@ -32,7 +32,7 @@ header:
   </div>
   <div class="stat">
     <div class="stat-num">1,500+</div>
-    <div class="stat-label">duplicate physician ids removed</div>
+    <div class="stat-label">duplicate physician IDs removed</div>
   </div>
 </div>
 
