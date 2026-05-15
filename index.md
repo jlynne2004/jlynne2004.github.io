@@ -19,7 +19,7 @@ header:
 
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
 <p>Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
-<p>With over 5 years of experience in healthcare analytics, I've seen what unreliable data can do to an organization: claim denials, lost revenue, delayed care. My approach focuses on improving the workflows behind the data – fixing reporting processes, cleaning up quality issues, and reducing the manual processes taking up your team's time. Every solution I build is practical, documented, and designed to last.</p>
+<p>With over 5 years of experience in healthcare analytics, I've seen what unreliable data can do to an organization: claim denials, lost revenue, delayed care. My approach focuses on improving the workflows behind the data – fixing reporting gaps, cleaning up quality issues, and reducing the manual processes taking up your team's time. Every solution I build is practical, documented, and designed to last.</p>
 
 <div class="stat-row">
   <div class="stat">
@@ -37,8 +37,8 @@ header:
 </div>
 
 ---
-<h2 class="jh-section-title">Service Offerings</h2>
-<p>Specialized healthcare data solutions designed to improve reporting reliability, workflow efficiency, and operational visibility.</p>
+<h2 class="jh-section-title">What I Offer</h2>
+<p>Check out my services below:</p>
 
 <div class="jh-services-grid">
 
