@@ -32,7 +32,7 @@ header:
   </div>
   <div class="stat">
     <div class="stat-num">1,500+</div>
-    <div class="stat-label">duplicate physician IDs removed</div>
+    <div class="stat-label">duplicate records identified and removed</div>
   </div>
 </div>
 
