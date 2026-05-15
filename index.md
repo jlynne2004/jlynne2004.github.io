@@ -3,7 +3,7 @@ layout: splash
 title: "Proactive Healthcare Data Solutions"
 seo_title: "Healthcare Data Consultant"
 description: "Jess Hayden is a healthcare data consultant specializing in HIPAA compliance, data quality solutions, and analytics automation. Available for projects and full-time roles."
-excerpt: "I help small and mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious so your staff can focus on patients, not spreadsheets."
+excerpt: "I help small and mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious %ndash; so your staff can focus on patients, not spreadsheets."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
