@@ -9,10 +9,10 @@ header:
   overlay_image: /assets/hero-bg.svg
   overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
   actions:
-    - label: "See my work"
+    - label: "View My Portfolio"
       url: "/portfolio/"
       btn_class: "btn--primary"
-    - label: "Schedule a free consultation"
+    - label: "Schedule a Free Discovery Call"
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
 ---
@@ -46,15 +46,15 @@ header:
     <p>Does your data have duplicate records, missing fields, inconsistent formats, outdated or inactive records?</p>
     <p><strong>What I'll Do:</strong> Clean the data, identify the root cause, and put checks in place so it doesn't happen again.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
-    <a href="/services/" class="btn btn--info">Learn More</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Free Discovery Call</a>
   </div>
 
   <div class="jh-service-card">
     <h3>Secure Data Workflows</h3>
-    <p>Are you unsure if your patient data is being handled correctly? Is there no documented process for handling PHI within your organization? Is your staff sharing files in ways that create risk?</p>
+    <p>Are you unsure whether your organization is handling patient data correctly? Is your staff sharing sensitive files in ways that create risk?</p>
     <p><strong>What I'll Do:</strong> Build secure, documented workflows for handling patient data so your organization stays HIPAA-conscious.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
-    <a href="/services/" class="btn btn--info">Learn More</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Free Discovery Call</a>
   </div>
 
   <div class="jh-service-card">
@@ -62,7 +62,7 @@ header:
     <p>Manually pulling reports, SQL queries that take forever to run, emailing spreadsheets back and forth &ndash; all taking up valuable bandwidth.</P>
     <p><strong>What I'll Do:</strong> Build an automated process using SQL and Python so that your reporting is accurate, runs on a schedule, and doesn't require any manual oversight.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
-    <a href="/services/" class="btn btn--info">Learn More</a>
+    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Free Discovery Call</a>
   </div>
 
 </div>
