@@ -59,7 +59,7 @@ header:
 
   <div class="jh-service-card">
     <h3>Reporting Process Optimization</h3>
-    <p>Manually pulling reports, SQL queries that take forever to run, emailing spreadsheets back and forth &ndash; all taking up valuable bandwidth.
+    <p>Manually pulling reports, SQL queries that take forever to run, emailing spreadsheets back and forth &ndash; all taking up valuable bandwidth.</P>
     <p><strong>What I'll Do:</strong> Build an automated process, optimizing your SQL scripts, that runs on a schedule, is accurate, and doesn't require any manual oversight.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
