@@ -5,6 +5,7 @@ description: "Healthcare data consulting services: HIPAA compliance, data qualit
 layout: single
 author_profile: false
 classes: wide
+sitemap: false
 ---
 
 <p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance. All services are available remotely to healthcare organizations nationwide.</p>
