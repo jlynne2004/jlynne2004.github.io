@@ -66,7 +66,7 @@ header:
   </div>
 
 </div>
-<p>Not ready to commit to a full project? Check out my <a href=>"https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
+<p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
 
 ---
 <h2 class="jh-section-title">Recommendations & Testimonials</h2>
