@@ -44,7 +44,7 @@ header:
   <div class="jh-service-card">
     <h3>Data Quality Solutions</h3>
     <p>Does your data have duplicate records, missing fields, inconsistent formats, outdated or inactive records?</p>
-    <p><strong>What I'll Do:</strong> Clean the data, identify the cause of your messy data, and put checks in place so it doesn't happen again.</p>
+    <p><strong>What I'll Do:</strong> Clean the data, identify the root cause, and put checks in place so it doesn't happen again.</p>
     <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
     <a href="/services/" class="btn btn--info">Learn More</a>
   </div>
