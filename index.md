@@ -16,6 +16,11 @@ header:
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
 ---
+
+<h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
+<p>Healthcare reporting and analytics depend on more than just dashboards and data pulls. Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
+<p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
+
 <div class="stat-row">
   <div class="stat">
     <div class="stat-num">30+</div>
@@ -30,10 +35,6 @@ header:
     <div class="stat-label">supported simultaneously</div>
   </div>
 </div>
-
-<h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
-<p>Healthcare reporting and analytics depend on more than just dashboards and data pulls. Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
-<p>My approach focuses on improving the workflows behind healthcare data, from reporting processes and data quality to reducing manual inefficiencies and supporting more dependable analytics. With hands-on experience working through reporting gaps, workflow issues, and operational data challenges, I prioritize solutions that are practical, maintainable, and designed to support long-term consistency.</p>
 
 ---
 <h2 class="jh-section-title">Service Offerings</h2>
