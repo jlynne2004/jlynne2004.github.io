@@ -451,9 +451,36 @@
   .jh-cta-banner h3 { color: #ffffff; margin-top: 0; }
   .jh-cta-banner p { color: #a0c4d8; margin-bottom: 1.5em; }
 
+  /* Stat blocks */
+  .stat-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin: 2rem 0;
+  }
+  .stat {
+    background: #f0f4f8;
+    border-radius: 8px;
+    padding: 1.25rem;
+    text-align: center;
+  }
+  .stat-num {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #185FA5;
+  }
+  .stat-label {
+    font-size: 0.85rem;
+    color: #555;
+    margin-top: 4px;
+  }
+
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .jh-form-row { grid-template-columns: 1fr; }
     .jh-headshot { width: 180px !important; margin: 0 0 1em 1.2em !important; }
+  }
+  @media (max-width: 600px) {
+    .stat-row { grid-template-columns: 1fr; }
   }
 </style>
