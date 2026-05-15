@@ -25,14 +25,14 @@ When I'm not analyzing data, you'll find me cheering for the Phillies and the Ea
 
 **Ready to discuss your data challenges? Let's connect.**
 
-<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule a Call</a> &nbsp; <a href="/contact/" class="btn btn--info">Contact Me</a>
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule a Free Discovery Call</a> &nbsp; <a href="/contact/" class="btn btn--info">Contact Me</a>
 
 ---
 
 <div class="jh-skills-box">
   <h3>Technical Skills</h3>
 
-  <p><strong>Languages &amp; Tools:</strong> SQL Server, Azure Data Studio, T-SQL, PostgreSQL, Python (pandas, numpy, openpyxl, pyodbc, smtplib, matplotlib), Power BI, Tableau, Excel (Advanced), Git, C# (working knowledge)</p>
+  <p><strong>Languages &amp; Tools:</strong> SQL Server, Azure Data Studio, T-SQL, PostgreSQL, Python (pandas, numpy, openpyxl, pyodbc, smtplib, matplotlib), Power BI, Tableau, Excel (formulas, pivot tables, VLOOKUP), Git, C# (working knowledge)</p>
 
   <p><strong>Specialties:</strong> Data quality consulting, HIPAA compliance, healthcare analytics, reporting automation, provider data deduplication, data automation, ETL pipelines, database migrations</p>
 
