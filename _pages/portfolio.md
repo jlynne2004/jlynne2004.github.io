@@ -40,6 +40,25 @@ classes: wide
 ---
 
 <div class="jh-project">
+  <h3>Provider Data Deduplication Case Study</h3>
+
+  <span class="jh-star-label">The Problem</span>
+  <p>Duplicate physician records from inconsistent data entry were causing patients to appear in wrong provider queues, disrupting care coordination and creating operational bottlenecks.</p>
+
+  <span class="jh-star-label">What I Built</span>
+  <p>Identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions. Tracking the issue in an Excel spreadsheet for documentation.</p>
+
+  <span class="jh-star-label">The Result</span>
+  <p>Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
+
+  <div class="jh-tools">
+    <strong>Tools:</strong> SQL Server, T-SQL, data profiling, gap analysis, cross-functional stakeholder management
+  </div>
+</div>
+
+---
+
+<div class="jh-project">
   <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
 
   <span class="jh-star-label">The Problem</span>
@@ -63,25 +82,6 @@ classes: wide
   <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Sales tab.png" alt="Sales Dashboard" style="width: 48%; max-width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Service tab.png" alt="Service Dashboard" style="width: 48%; max-width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-  </div>
-</div>
-
----
-
-<div class="jh-project">
-  <h3>Provider Data Deduplication Case Study</h3>
-
-  <span class="jh-star-label">The Problem</span>
-  <p>Duplicate physician records from inconsistent data entry were causing patients to appear in wrong provider queues, disrupting care coordination and creating operational bottlenecks.</p>
-
-  <span class="jh-star-label">What I Built</span>
-  <p>Identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions. Tracking the issue in an Excel spreadsheet for documentation.</p>
-
-  <span class="jh-star-label">The Result</span>
-  <p>Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
-
-  <div class="jh-tools">
-    <strong>Tools:</strong> SQL Server, T-SQL, data profiling, gap analysis, cross-functional stakeholder management
   </div>
 </div>
 
