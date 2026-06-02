@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "Proactive Healthcare Data Solutions"
+title: "Better Reporting. Smarter Healthcare Operations."
 seo_title: "Healthcare Data Consultant"
 description: "SQL and Python expert helping small healthcare organizations and nonprofits automate reporting, fix data quality, and stay HIPAA-compliant."
-excerpt: "Helping small to mid-size healthcare organizations and non-profits automate manual reporting, fix messy data, and stay HIPAA-conscious – so their staff can focus on patients, not spreadsheets."
+excerpt: "Automation, dashboards, and reporting workflows for healthcare teams overwhelmed by manual processes."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
