@@ -78,7 +78,9 @@ header:
   </div>
 
 </div>
-<p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p>
+<p>Every project begins with a complimentary discovery call to understand your goals, identify opportunities, and determine the right scope of work. Schedule your call today!</p>
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Free Discovery Call</a>
+<!-- <p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p> -->
 
 ---
 <h2 class="jh-section-title">Recommendations & Testimonials</h2>
