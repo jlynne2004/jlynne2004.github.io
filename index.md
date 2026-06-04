@@ -44,31 +44,37 @@ header:
   <div class="jh-service-card">
     <h3>Data Quality Solutions</h3>
     <p>Clean, accurate data is the foundation of reliable reporting.</p>
-    <p><strong>Services include:</strong>
-    <p>- Data cleanup</p>
-    <p>- Validation checks</p>
-    <p>- Duplicate identification</p>
-    <p>- Process improvements</p></p>
+    <p><strong>Services include:</strong></p>
+    <ul>
+      <li>Data cleanup</li>
+      <li>Validation checks</li>
+      <li>Duplicate identification</li>
+      <li>Process improvements</li>
+    </ul>
   </div>
 
   <div class="jh-service-card">
     <h3>Secure Data Workflows</h3>
     <p>Protect sensitive information with documented, HIPAA-conscious processes.</p>
-    <p><strong>Services include:</strong>
-    <p>- Worflow reviews</p>
-    <p>- Secure data handling</p>
-    <p>- Documentation</p>
-    <p>- Process standardization</p></p>
+    <p><strong>Services include:</strong></p>
+    <ul>
+      <li>Workflow reviews</li>
+      <li>Secure data handling</li>
+      <li>Documentation</li>
+      <li>Process standardization</li>
+    </ul>
   </div>
 
   <div class="jh-service-card">
     <h3>Reporting Automation</h3>
-    <p>Eliminate manual reporting and repetitive spreadsheet work.</P>
-    <p><strong>Services include:</strong>
-    <p>- SQL automation</p>
-    <p>- Python reporting</p>
-    <p>- Scheduled reports</p>
-    <p>- Dashboard integration</p></p>
+    <p>Eliminate manual reporting and repetitive spreadsheet work.</p>
+    <p><strong>Services include:</strong></p>
+    <ul>
+      <li>SQL automation</li>
+      <li>Python reporting</li>
+      <li>Scheduled reports</li>
+      <li>Dashboard integration</li>
+    </ul>
   </div>
 
 </div>
