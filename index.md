@@ -15,9 +15,7 @@ header:
     - label: "Book a Workflow Strategy Call"
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
-    - label: "SQL • Python • Microsoft Excel"
-      url: "#"
-      btn_class: "btn--tools-tag"
+  excerpt: "SQL • Python • Power BI • Excel Automation"
 ---
 
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
