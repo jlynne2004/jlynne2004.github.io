@@ -44,8 +44,8 @@ header:
   <div class="jh-service-card">
     <h3>Data Quality Solutions</h3>
     <p>Clean, accurate data is the foundation of reliable reporting.</p>
-    <p><strong>Services include:</strong></p>
-    <p>- Data cleanup
+    <p><strong>Services include:</strong>
+    - Data cleanup
     - Validation checks
     - Duplicate identification
     - Process improvements</p>
