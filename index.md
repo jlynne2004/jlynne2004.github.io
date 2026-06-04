@@ -45,10 +45,10 @@ header:
     <h3>Data Quality Solutions</h3>
     <p>Clean, accurate data is the foundation of reliable reporting.</p>
     <p><strong>Services include:</strong>
-    <p>- Data cleanup</p>
-    <p>- Validation checks</p>
-    <p>- Duplicate identification</p>
-    <p>- Process improvements</p></p>
+    <p>- Data cleanup
+    - Validation checks
+    - Duplicate identification
+    - Process improvements</p></p>
   </div>
 
   <div class="jh-service-card">
