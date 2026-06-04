@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "Operational Analytics for Healthcare Teams."
+title: "Operational Analytics for Healthcare Teams"
 seo_title: "Healthcare Data Consultant"
 description: "SQL and Python expert helping small healthcare organizations and nonprofits automate reporting, fix data quality, and stay HIPAA-compliant."
-excerpt: "Automation, dashboards, and reporting workflows for healthcare teams overwhelmed by manual processes."
+excerpt: "Automation, dashboards, and reporting workflows for teams overwhelmed by manual processes."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
@@ -15,7 +15,7 @@ header:
     - label: "Book a Workflow Strategy Call"
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
-  overlay_excerpt: "SQL • Python • Power BI • Excel Automation"
+  excerpt: "SQL • Python • Power BI • Excel Automation"
 ---
 
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
