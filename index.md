@@ -45,26 +45,30 @@ header:
     <h3>Data Quality Solutions</h3>
     <p>Clean, accurate data is the foundation of reliable reporting.</p>
     <p><strong>Services include:</strong>
-    <p>- Data cleanup
-    - Validation checks
-    - Duplicate identification
-    - Process improvements</p></p>
+    <p>- Data cleanup</p>
+    <p>- Validation checks</p>
+    <p>- Duplicate identification</p>
+    <p>- Process improvements</p></p>
   </div>
 
   <div class="jh-service-card">
     <h3>Secure Data Workflows</h3>
-    <p>Are you unsure whether your organization is handling patient data correctly? Is your staff sharing sensitive files in ways that create risk?</p>
-    <p><strong>What I'll Do:</strong> Build secure, documented workflows for handling patient data so your organization stays HIPAA-conscious.</p>
-    <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Free Discovery Call</a>
+    <p>Protect sensitive information with documented, HIPAA-conscious processes.</p>
+    <p><strong>Services include:</strong>
+    <p>- Worflow reviews</p>
+    <p>- Secure data handling</p>
+    <p>- Documentation</p>
+    <p>- Process standardization</p></p>
   </div>
 
   <div class="jh-service-card">
-    <h3>Reporting Process Optimization</h3>
-    <p>Manually pulling reports, SQL queries that take forever to run, emailing spreadsheets back and forth &ndash; all taking up valuable bandwidth.</P>
-    <p><strong>What I'll Do:</strong> Build an automated process using SQL and Python so that your reporting is accurate, runs on a schedule, and doesn't require any manual oversight.</p>
-    <div class="jh-price">Pricing: Project-based. Every engagement starts with a free discovery call to scope the work before I quote anything.</div>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Free Discovery Call</a>
+    <h3>Reporting Automation</h3>
+    <p>Eliminate manual reporting and repetitive spreadsheet work.</P>
+    <p><strong>Services include:</strong>
+    <p>- SQL automation</p>
+    <p>- Python reporting</p>
+    <p>- Scheduled reports</p>
+    <p>- Dashboard integration</p></p>
   </div>
 
 </div>
