@@ -44,13 +44,14 @@ By leveraging powerful, open-source programming like <b>Python</b> alongside rob
 <ul>
   <li><b>HIPAA-Conscious Infrastructure:</b> Data privacy is baked into every script and query I write.</li>
   <li><b>Focus on Data Quality:</b> Automated validation checks mean you can actually trust your numbers.</li>
-  <li><b>Zero Software Bloat:</b> I use the right tools for your specific budget, saving you thousands in unnecessary tech stack fees.
+  <li><b>Zero Software Bloat:</b> I use the right tools for your specific budget, saving you thousands in unnecessary tech stack fees.</li>
 </ul>
+
 ---
 
 <strong>Ready to stop building reports and start using them?</strong>
 <p>Let's talk about automating your data workflows so your teams can focus on what matters most.</p>
-<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule a Call</a> &nbsp; <a href="/portfolio/" class="btn btn--info">View My Work</a>
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary">Schedule a Call</a> &nbsp; <a href="/portfolio/" class="btn btn--info">View My Portfolio</a>
 
 <!-- ---
 
