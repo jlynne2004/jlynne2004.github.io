@@ -12,10 +12,9 @@ header:
     - label: "View My Portfolio"
       url: "/portfolio/"
       btn_class: "btn--primary"
-    - label: "Book a Workflow Strategy Call"
+    - label: "Schedule a Call"
       url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
       btn_class: "btn--info"
-  excerpt: "SQL • Python • Power BI • Excel Automation"
 ---
 
 <h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
