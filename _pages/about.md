@@ -27,7 +27,7 @@ This manual process doesn't just waste time; it introduces data quality risks an
 By leveraging powerful, open-source programming like <b>Python</b> alongside robust <b>SQL</b> databases, I create highly efficient reporting systems without forcing your organization into expensive, recurring Business Intelligence (BI) software licenses. You get enterprise-grade data reliability on a mid-size budget.</p>
 
 <strong>My Background & Expertise</strong>
-<p>With over 8.5 years of dedicated data experience, I understand the unique challenges of healthcare data infrastructure, quality control, and privacy.</p>
+<p>With over 8 years of dedicated data experience, I understand the unique challenges of healthcare data infrastructure, quality control, and privacy.</p>
 <ul>
   <li><b>Persante Health Care (3.5 Years):</b> I spearheaded report automation initiatives. By introducing custom Python workflows, I successfully eliminated manual reporting bottlenecks and saved the organization from costly BI licensing fees.</li>
   <li><b>InsPro Technologies (5 Years):</b> Entry-level role where I used Excel to investigate complex general ledger and claims extract discrepancies, and built estimation workflows using advanced Excel techniques to speed up client invoicing.</li>
