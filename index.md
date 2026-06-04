@@ -83,7 +83,7 @@ header:
 <!-- <p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p> -->
 
 ---
-<h2 class="jh-section-title">Recommendations & Testimonials</h2>
+<h2 class="jh-section-title">Professional Recommendations</h2>
 
 <div class="jh-testimonial">
   <blockquote>
@@ -93,7 +93,7 @@ header:
 </div>
 
 ---
-<h2 id="contact" class="jh-section-title">Ready To Make Your Analytics Reliable?</h2>
+<h2 id="contact" class="jh-section-title">Let's Talk!</h2>
 <p> Fill out the form below or use the links on the side to connect.</p>
 
 <div class="jh-contact-grid">
