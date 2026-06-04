@@ -63,6 +63,6 @@ By leveraging powerful, open-source programming like <b>Python</b> alongside rob
   <p><strong>Specialties:</strong> Reporting automation, data quality, HIPAA compliance, healthcare analytics, ETL pipelines</p>
 
   <p><strong>Certifications:</strong> SQL (Basic) | HackerRank (2026) · IBM Data Analyst Professional Certificate (in progress)</p>
-</div> -->
+</div>
 
-<a href="/assets/Jessica_Hayden_Resume.pdf" class="btn btn--primary" target="_blank">Download Resume</a>
+<a href="/assets/Jessica_Hayden_Resume.pdf" class="btn btn--primary" target="_blank">Download Resume</a> -->
