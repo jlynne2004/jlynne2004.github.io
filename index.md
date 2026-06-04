@@ -17,9 +17,9 @@ header:
       btn_class: "btn--info"
 ---
 
-<h2 class="jh-section-title">Reliable Analytics Start With Reliable Processes</h2>
-<p>Behind every reliable report is a process that needs to be accurate, consistent, and built to support day-to-day operations.</p>
-<p>With over 5 years of experience in healthcare analytics, I've seen what unreliable data can do to an organization: claim denials, lost revenue, delayed care. My approach focuses on improving the workflows behind the data – fixing reporting gaps, cleaning up quality issues, and reducing the manual processes taking up your team's time. Every solution I build is practical, documented, and designed to last.</p>
+<h2 class="jh-section-title">Spend Less Time Building Reports, More Time Using Them</h2>
+<p>Manual reporting shouldn't consume hours of your team's week.</p>
+<p>I help healthcare organizations automate reporting workflows, improve data quality, and build reliable processes that support better operational decisions, without compromising HIPAA compliance.</p>
 
 <div class="stat-row">
   <div class="stat">
