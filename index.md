@@ -19,7 +19,7 @@ header:
 
 <h2 class="jh-section-title">Spend Less Time Building Reports, More Time Using Them</h2>
 <p>Manual reporting shouldn't consume hours of your team's week.</p>
-<p>I help healthcare organizations automate reporting workflows, improve data quality, and build reliable processes that support better operational decisions&mdash;without compromising HIPAA compliance.</p>
+<p>I help healthcare organizations automate reporting workflows, improve data quality, and build HIPAA-conscious processes that save time and reduce risk.</p>
 
 <div class="stat-row">
   <div class="stat">
