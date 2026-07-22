@@ -63,10 +63,7 @@ Audited general ledger/claims extract discrepancies, and optimized client invoic
 
 ## Why Partner With Me?
 
-### 🔒 HIPAA-Conscious Infrastructure
-Data privacy is not an afterthought—it is baked into every script, query, and pipeline I deploy.
-{: .notice--success}
-
+* **HIPAA-Concious Infrastructure:** Data privacy is not an afterthought—it is baked into every script, query, and pipeline I deploy.
 * **Focus on Data Quality:** Automated validation checks mean you can actually trust your numbers.
 * **Zero Software Bloat:** I use the right tools for your specific budget, saving you thousands in unnecessary tech stack fees.
 
