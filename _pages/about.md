@@ -59,6 +59,8 @@ Audited general ledger/claims extract discrepancies, and optimized client invoic
   </div>
 </div>
 
+<div style="clear: both;"></div>
+
 ## Why Partner With Me?
 
 ### 🔒 HIPAA-Conscious Infrastructure
