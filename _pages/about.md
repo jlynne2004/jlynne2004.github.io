@@ -28,11 +28,13 @@ By leveraging powerful, open-source programming like **Python** alongside robust
 
 ## My Background & Expertise
 
-**Persante Health Care** • *Report Automation Lead (3.5 Years)*
+**Persante Health Care**
+*Report Automation Lead · (3.5 Years)*
 Spearheaded data pipelines, introduced custom Python workflows to replace manual reporting, and eliminated thousands in unnecessary licensing fees.
 {: .notice}
 
-**InsPro Technologies** • *Data Analyst (5 Years)*
+**InsPro Technologies**
+*Data Analyst · (5 Years)*
 Audited general ledger/claims extract discrepancies, and optimized client invoicing speeds using advanced estimation workflows.
 {: .notice}
 
