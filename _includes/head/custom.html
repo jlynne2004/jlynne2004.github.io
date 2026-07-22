@@ -185,6 +185,57 @@
   .greedy-nav .hidden-links a { color: #1E3A5F !important; }
   .greedy-nav .hidden-links a:hover { color: #1E88A8 !important; }
 
+  /* Booking status banner */
+  .jh-booking-banner {
+    position: relative;
+    width: 100%;
+    background: #E8A33D;
+    color: #1E3A5F;
+  }
+  .jh-booking-banner__inner {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0.6em 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .jh-booking-banner__text {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 0.9em;
+    font-weight: 600;
+  }
+  .jh-booking-banner__cta {
+    color: #1E3A5F !important;
+    font-weight: 700;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  .jh-booking-banner__cta:hover { color: #ffffff !important; }
+  .jh-booking-banner__dismiss {
+    position: absolute;
+    top: 50%;
+    right: 1em;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: #1E3A5F;
+    font-size: 1.4em;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 0.2em;
+  }
+  .jh-booking-banner__dismiss:hover { color: #ffffff; }
+  @media (max-width: 600px) {
+    .jh-booking-banner__inner { padding: 0.6em 2.2em; }
+    .jh-booking-banner__text { font-size: 0.8em; }
+  }
+
   /* Global links */
   a { color: #1E88A8; }
   a:hover { color: #1E3A5F; }

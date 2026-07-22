@@ -1,0 +1,43 @@
+{% assign booking_text = site.data.booking.status_text %}
+{% assign booking_cta_text = site.data.booking.cta_text | default: "Schedule a call" %}
+{% assign booking_cta_url = site.data.booking.cta_url %}
+
+{% if booking_text %}
+<div id="jh-booking-banner" class="jh-booking-banner" data-banner-text="{{ booking_text | escape }}" hidden>
+  <div class="jh-booking-banner__inner">
+    <span class="jh-booking-banner__text">
+      {{ booking_text }}
+      {% if booking_cta_url %}
+        <a class="jh-booking-banner__cta" href="{{ booking_cta_url }}" target="_blank" rel="noopener">{{ booking_cta_text }} &rarr;</a>
+      {% endif %}
+    </span>
+  </div>
+  <button type="button" class="jh-booking-banner__dismiss" aria-label="Dismiss banner">&times;</button>
+</div>
+
+<script>
+(function () {
+  var STORAGE_KEY = 'jh-booking-banner-dismissed';
+  var banner = document.getElementById('jh-booking-banner');
+  if (!banner) return;
+
+  var currentText = banner.getAttribute('data-banner-text');
+  var dismissedText = null;
+  try {
+    dismissedText = window.localStorage.getItem(STORAGE_KEY);
+  } catch (e) {}
+
+  if (dismissedText !== currentText) {
+    banner.hidden = false;
+  }
+
+  var dismissBtn = banner.querySelector('.jh-booking-banner__dismiss');
+  dismissBtn.addEventListener('click', function () {
+    banner.hidden = true;
+    try {
+      window.localStorage.setItem(STORAGE_KEY, currentText);
+    } catch (e) {}
+  });
+}());
+</script>
+{% endif %}
