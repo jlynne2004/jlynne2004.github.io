@@ -635,5 +635,18 @@
   }
   @media (max-width: 600px) {
     .stat-row { grid-template-columns: 1fr; }
+    .jh-headshot {
+      float: none !important;
+      display: block !important;
+      width: 150px !important;
+      margin: 0 auto 1.5em !important;
+    }
+  }
+
+  /* My Core Toolset excerpts: theme hides .archive__item-excerpt below
+     the medium breakpoint in grid layouts (_archive.scss), force visible
+     here since .grid__wrapper is only used for this section. */
+  .grid__wrapper .archive__item-excerpt {
+    display: block !important;
   }
 </style>
