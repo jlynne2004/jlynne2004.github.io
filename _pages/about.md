@@ -9,7 +9,7 @@ classes: wide
 
 ## My Story
 
-<img src="/assets/jessica-profile.jpg" alt="Jess Hayden, healthcare data specialist and consultant based in Marlton, NJ" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
+<img src="/assets/jessica-profile.jpg" alt="Jess Hayden, healthcare data specialist and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
 
 ### Hi, I'm Jess Hayden — Your Healthcare Data Consultant.
 I help small to mid-size healthcare organizations across the United States eliminate the headache of manual reporting. By building secure, automated data pipelines, I give your team their time back—allowing you to focus on analyzing data and making critical decisions rather than getting bogged down in creating the reports.
