@@ -42,44 +42,40 @@ header:
 <div class="jh-services-grid">
 
   <div class="jh-service-card">
-    <h3>Data Quality Solutions</h3>
-    <p>Clean, accurate data is the foundation of reliable reporting.</p>
-    <p><strong>Services include:</strong></p>
-    <ul>
-      <li>Data cleanup</li>
-      <li>Validation checks</li>
-      <li>Duplicate identification</li>
-      <li>Process improvements</li>
-    </ul>
+    <h3>&#128311; Reporting Automation Starter</h3>
+    <p>Turn manual, spreadsheet-driven reporting into automated pipelines.</p>
+    <p>
+      &#10004; SQL &amp; Python automation<br>
+      &#10004; Scheduled report delivery<br>
+      &#10004; Documentation &amp; training handoff
+    </p>
+    <div class="jh-price">Starting at $2,500</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>Secure Data Workflows</h3>
-    <p>Protect sensitive information with documented, HIPAA-conscious processes.</p>
-    <p><strong>Services include:</strong></p>
-    <ul>
-      <li>Workflow reviews</li>
-      <li>Secure data handling</li>
-      <li>Documentation</li>
-      <li>Process standardization</li>
-    </ul>
+    <h3>&#128311; Data Quality Audit</h3>
+    <p>Find and fix what's undermining your data before it hits a report.</p>
+    <p>
+      &#10004; Duplicate &amp; inconsistency review<br>
+      &#10004; Validation checks<br>
+      &#10004; Written findings &amp; recommendations
+    </p>
+    <div class="jh-price">Starting at $1,200</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>Reporting Automation</h3>
-    <p>Eliminate manual reporting and repetitive spreadsheet work.</p>
-    <p><strong>Services include:</strong></p>
-    <ul>
-      <li>SQL automation</li>
-      <li>Python reporting</li>
-      <li>Scheduled reports</li>
-      <li>Dashboard integration</li>
-    </ul>
+    <h3>&#128311; Secure Workflow Documentation</h3>
+    <p>HIPAA-conscious review of how sensitive data moves through your org.</p>
+    <p>
+      &#10004; Workflow review<br>
+      &#10004; Process standardization<br>
+      &#10004; Written workflow guide
+    </p>
+    <div class="jh-price">Starting at $1,500</div>
   </div>
 
 </div>
-<p>Every project begins with a complimentary discovery call to understand your goals, identify opportunities, and determine the right scope of work. Schedule your call today!</p>
-<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Free Discovery Call</a>
+<a href="/services/" class="btn btn--info">See Full Pricing &amp; Package Details &rarr;</a>
 <!-- <p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p> -->
 
 ---

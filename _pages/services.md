@@ -8,88 +8,109 @@ classes: wide
 sitemap: false
 ---
 
-<p>I offer two ways to work together: comprehensive project-based solutions for ongoing needs, or focused consultation sessions for quick expert guidance. All services are available remotely to healthcare organizations nationwide.</p>
+# Services & Pricing
 
-<h2 class="jh-section-title">Main Services</h2>
+Fixed-price packages with a defined scope, so you know exactly what you're
+getting and what it costs before we start — no open-ended hourly billing.
 
-<p>These services are tailored to your specific challenges with custom scoping and flexible timelines. Schedule a free discovery call to discuss your project, and I'll create a proposal that fits your needs and budget.</p>
+## How It Works
 
-<div class="jh-services-grid">
+1. **Free 30-minute discovery call** — we talk through your current
+   process, pain points, and goals.
+2. **Fixed-price proposal** — you get a scope of work and a single price
+   within 2–3 business days.
+3. **Defined timeline & deliverables** — most projects run 2–4 weeks from
+   kickoff to handoff.
+4. **Optional ongoing support** — once your project is live, a monthly
+   retainer keeps it running smoothly.
 
-  <div class="jh-service-card">
-    <h3>&#128269; Data Quality Solutions</h3>
-    <p>Clean and normalize messy data across varying formats (CSV, Excel, JSON, XML, pipe-delimited). Eliminate duplicates, identify data quality issues, and ensure accurate record matching.</p>
-    <p><strong>What you get:</strong> De-duplicated records, data remediation, gap analysis, database migration support</p>
-    <div class="jh-price">Starting at $95/hour &nbsp;|&nbsp; Typically 2&ndash;4 weeks &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
-  </div>
-
-  <div class="jh-service-card">
-    <h3>&#128274; HIPAA-Compliant Data Solutions</h3>
-    <p>Build secure, compliant data pipelines and transformation workflows. Handle PHI/PII data properly with automated de-identification and compliance validation.</p>
-    <p><strong>What you get:</strong> De-identification pipelines, compliance reporting, Safe Harbor implementation, PHI/PII handling</p>
-    <div class="jh-price">Starting at $130/hour &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
-  </div>
-
-  <div class="jh-service-card">
-    <h3>&#128200; Healthcare Analytics &amp; Automation</h3>
-    <p>Turn manual reporting processes into automated solutions. Build dashboards, analyze patient flow metrics, and identify operational bottlenecks.</p>
-    <p><strong>What you get:</strong> SQL automation, Power BI/Tableau dashboards, ETL pipelines, clinical performance metrics</p>
-    <div class="jh-price">Starting at $120/hour &nbsp;|&nbsp; Dashboard projects typically 3&ndash;6 weeks &nbsp;|&nbsp; Project-based pricing available</div>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Schedule Discovery Call</a>
-  </div>
-
-</div>
+[Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
 
 ---
 
-<h2 class="jh-section-title">Book a Consultation</h2>
+## Packages
 
-<p>Book directly via Zoom Scheduler for the free discovery call. For paid sessions, email me at <a href="jlynne.hayden@gmail.com">jlynne.hayden@gmail.com</a> to schedule.</p>
+### Healthcare Reporting Automation Starter
+**$2,500 – $4,500**
 
-<div class="jh-consult-grid">
+The core offer: turn your manual, spreadsheet-driven reporting into
+automated SQL/Python workflows.
 
-  <div class="jh-consult-card">
-    <h4>Free Discovery Call</h4>
-    <div class="jh-price-lg">Free</div>
-    <div class="jh-duration">30 minutes</div>
-    <p>Get to know each other and discuss your data challenges</p>
-    <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--primary" target="_blank" rel="noopener">Book Now</a>
-  </div>
+**What's included:**
+- Discovery & data source mapping (1–3 reports)
+- Automated SQL/Python pipeline build
+- Scheduled report delivery
+- Documentation of the new process
+- 30-minute training handoff call
+- 2 weeks of post-launch support for bug fixes
 
-  <div class="jh-consult-card">
-    <h4>SQL Consultation</h4>
-    <div class="jh-price-lg">$150</div>
-    <div class="jh-duration">1 hour</div>
-    <p>Work with a SQL consultant on query optimization, troubleshooting, or skill-building.</p>
-    <a href="mailto:jlynne.hayden@gmail.com?subject=SQL Consultation Booking" class="btn btn--info">Book Now</a>
-  </div>
+**Good fit if:** you're spending hours each week manually pulling,
+formatting, or emailing the same reports.
 
-  <div class="jh-consult-card">
-    <h4>Automation Strategy Session</h4>
-    <div class="jh-price-lg">$200</div>
-    <div class="jh-duration">1.5 hours</div>
-    <p>Identify automation opportunities and create an implementation roadmap</p>
-    <a href="mailto:jlynne.hayden@gmail.com?subject=Automation Strategy Session Booking" class="btn btn--info">Book Now</a>
-  </div>
+**Timeline:** 2–4 weeks
 
-  <div class="jh-consult-card">
-    <h4>Dashboard Consultation</h4>
-    <div class="jh-price-lg">$180</div>
-    <div class="jh-duration">1 hour</div>
-    <p>Work with a dashboard consultant to review your existing dashboards or plan new visualization projects.</p>
-    <a href="mailto:jlynne.hayden@gmail.com?subject=Dashboard Consultation Booking" class="btn btn--info">Book Now</a>
-  </div>
-
-</div>
+*Final price is set after the discovery call, based on number of reports
+and data source complexity — never a surprise, never open-ended.*
 
 ---
 
-<div class="jh-cta-banner">
-  <h3>Ready to Get Started?</h3>
-  <p>Whether you need a HIPAA compliance consultant, a data quality consultant, or a healthcare analytics partner, I'm here to help. Schedule a free discovery call or reach out via email.</p>
-  <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info" target="_blank" rel="noopener">Schedule Discovery Call</a>
-  &nbsp;
-  <a href="mailto:jlynne.hayden@gmail.com?subject=Consulting Inquiry" class="btn btn--primary">Email Me</a>
-</div>
+### Data Quality Audit & Cleanup
+**$1,200 – $2,000**
+
+A focused engagement to find and fix what's undermining your data before
+it hits a report or a decision.
+
+**What's included:**
+- Review of 1–2 core data sources
+- Duplicate & inconsistency identification
+- Validation checks built for ongoing use
+- Cleanup of existing records
+- Written summary of findings & recommendations
+
+**Good fit if:** you don't trust the numbers in your current reports, or
+you're about to start an automation project and want clean data first.
+
+**Timeline:** 1–2 weeks
+
+---
+
+### Secure Data Workflow Documentation
+**$1,500 – $2,800**
+
+HIPAA-conscious review and documentation of how sensitive data moves
+through your organization.
+
+**What's included:**
+- Workflow review for 1–2 processes handling PHI
+- Documentation of current-state data handling
+- Recommendations for process standardization
+- Written workflow guide your team can follow
+
+**Good fit if:** you need documented, defensible processes but don't have
+the internal bandwidth to write them.
+
+**Timeline:** 1–2 weeks
+
+---
+
+### Custom / Larger Projects
+For broader needs — multi-source integrations, custom reporting
+platforms, role-based access controls, or anything spanning multiple
+departments — we'll scope a custom fixed price after the discovery call.
+
+---
+
+## Care & Maintenance Retainer
+
+For clients with a completed project who want ongoing support without
+renegotiating scope every time something needs a tweak.
+
+| Tier | Price | Includes |
+|---|---|---|
+| **Basic** | $300/mo | Up to 2 hours/month · priority email support · minor report/query adjustments |
+| **Standard** | $600/mo | Up to 5 hours/month · priority email support · monthly check-in call · proactive monitoring for broken reports |
+
+*Retainers are month-to-month, no long-term contract required. Unused
+hours don't roll over.*
+
+[Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
