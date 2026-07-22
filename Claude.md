@@ -91,4 +91,3 @@ Instructions:
 4\. Verify image paths work with Jekyll
 
 5\. Show me changes before committing
-

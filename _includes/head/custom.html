@@ -413,8 +413,11 @@
 
   /* Project STAR format */
   .jh-project {
+    background: #ffffff;
     border: 1px solid #e0e0e0;
+    border-top: 4px solid #1E88A8;
     border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     padding: 1.5em 2em;
     margin-bottom: 2.5em;
   }
@@ -433,14 +436,98 @@
     display: block;
     margin-top: 1em;
   }
-  .jh-tools {
-    background: #f0f7fb;
-    border-radius: 4px;
-    padding: 0.6em 1em;
-    font-size: 0.9em;
-    margin-top: 1em;
-  }
   .jh-project-links { margin-top: 1em; }
+
+  /* Tool badges (pill tags) */
+  .jh-tool-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: 0.4em;
+  }
+  .jh-tool-badge {
+    display: inline-block;
+    background: #eaf4f8;
+    color: #1E3A5F;
+    border: 1px solid #cfe6ef;
+    border-radius: 999px;
+    padding: 0.25em 0.9em;
+    font-size: 0.8em;
+    font-weight: 600;
+  }
+
+  /* Notice blocks recolored to site palette (teal/navy) */
+  .notice--primary {
+    background-color: #eaf4f8 !important;
+    color: #1E3A5F !important;
+    border-left: 4px solid #1E88A8;
+    box-shadow: 0 1px 1px rgba(30,136,168,0.25) !important;
+  }
+  .notice--primary a { color: #1E88A8; }
+  .notice--primary h1, .notice--primary h2, .notice--primary h3,
+  .notice--primary h4, .notice--primary h5, .notice--primary h6 {
+    color: #1E3A5F;
+  }
+  .jh-project .notice--primary,
+  .jh-pkg-card .notice--primary {
+    margin: 1em 0 !important;
+  }
+
+  /* Light section tint - separates supporting content from card grids */
+  .jh-tint-section {
+    background: #f8f9fa;
+    border-radius: 4px;
+    padding: 1.5em 2em;
+    margin: 1.5em 0;
+  }
+  .jh-tint-section table {
+    background: #ffffff;
+  }
+
+  /* Package cards (Services page) - same visual language as jh-service-card */
+  .jh-packages-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+    margin: 0.8em 0 1em;
+  }
+  @media (min-width: 1024px) {
+    .jh-packages-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  .jh-pkg-card {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-top: 4px solid #1E88A8;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    padding: 1.5em;
+  }
+  .jh-pkg-card h3 { color: #1E3A5F; margin-top: 0; font-size: 1.1em; }
+  .jh-pkg-card ul {
+    margin-bottom: 1em;
+    padding-left: 1.4em;
+  }
+  .jh-pkg-card li { margin-bottom: 0.2em; }
+  .jh-pkg-card .jh-price {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #1E88A8;
+    margin: 0.2em 0 0.8em;
+  }
+
+  /* Additional Work feature_row - lighter/smaller cards than main case studies */
+  .feature__wrapper .archive__item {
+    background: #fafbfc;
+    border: 1px solid #ececec;
+    border-radius: 4px;
+    padding: 1.2em;
+  }
+  .feature__wrapper .archive__item-title {
+    font-size: 1.05em;
+    margin-top: 0;
+  }
 
   /* Skills box */
   .jh-skills-box {

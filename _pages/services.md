@@ -8,12 +8,14 @@ classes: wide
 sitemap: false
 ---
 
-# Services & Pricing
+<h2 class="jh-section-title">Services & Pricing</h2>
 
-Fixed-price packages with a defined scope, so you know exactly what you're
-getting and what it costs before we start — no open-ended hourly billing.
+<p>Fixed-price packages with a defined scope, so you know exactly what you're
+getting and what it costs before we start — no open-ended hourly billing.</p>
 
-## How It Works
+<div class="jh-tint-section" markdown="1">
+
+<h2 class="jh-section-title">How It Works</h2>
 
 1. **Free 30-minute discovery call** — we talk through your current
    process, pain points, and goals.
@@ -26,12 +28,17 @@ getting and what it costs before we start — no open-ended hourly billing.
 
 [Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
 
----
+</div>
 
-## Packages
+<h2 class="jh-section-title">Packages</h2>
+
+<div class="jh-packages-grid">
+
+<div class="jh-pkg-card" markdown="1">
 
 ### Healthcare Reporting Automation Starter
-**$2,500 – $4,500**
+
+<div class="jh-price">$2,500 – $4,500</div>
 
 The core offer: turn your manual, spreadsheet-driven reporting into
 automated SQL/Python workflows.
@@ -46,16 +53,20 @@ automated SQL/Python workflows.
 
 **Good fit if:** you're spending hours each week manually pulling,
 formatting, or emailing the same reports.
+{: .notice--primary}
 
 **Timeline:** 2–4 weeks
 
 *Final price is set after the discovery call, based on number of reports
 and data source complexity — never a surprise, never open-ended.*
 
----
+</div>
+
+<div class="jh-pkg-card" markdown="1">
 
 ### Data Quality Audit & Cleanup
-**$1,200 – $2,000**
+
+<div class="jh-price">$1,200 – $2,000</div>
 
 A focused engagement to find and fix what's undermining your data before
 it hits a report or a decision.
@@ -69,13 +80,17 @@ it hits a report or a decision.
 
 **Good fit if:** you don't trust the numbers in your current reports, or
 you're about to start an automation project and want clean data first.
+{: .notice--primary}
 
 **Timeline:** 1–2 weeks
 
----
+</div>
+
+<div class="jh-pkg-card" markdown="1">
 
 ### Secure Data Workflow Documentation
-**$1,500 – $2,800**
+
+<div class="jh-price">$1,500 – $2,800</div>
 
 HIPAA-conscious review and documentation of how sensitive data moves
 through your organization.
@@ -88,19 +103,24 @@ through your organization.
 
 **Good fit if:** you need documented, defensible processes but don't have
 the internal bandwidth to write them.
+{: .notice--primary}
 
 **Timeline:** 1–2 weeks
 
----
+</div>
 
-### Custom / Larger Projects
+</div>
+
+<p style="text-align:center; color:#444; margin-top:1.5em;"><strong>Custom / Larger Projects</strong><br>
 For broader needs — multi-source integrations, custom reporting
 platforms, role-based access controls, or anything spanning multiple
-departments — we'll scope a custom fixed price after the discovery call.
+departments — we'll scope a custom fixed price after the discovery call.</p>
 
 ---
 
-## Care & Maintenance Retainer
+<div class="jh-tint-section" markdown="1">
+
+<h2 class="jh-section-title">Care & Maintenance Retainer</h2>
 
 For clients with a completed project who want ongoing support without
 renegotiating scope every time something needs a tweak.
@@ -114,3 +134,5 @@ renegotiating scope every time something needs a tweak.
 hours don't roll over.*
 
 [Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
+
+</div>

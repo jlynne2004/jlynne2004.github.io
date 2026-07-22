@@ -6,6 +6,13 @@ description: "HIPAA de-identification pipeline, provider deduplication, and BI d
 layout: single
 author_profile: false
 classes: wide
+feature_row_extra:
+  - title: "Slump Dog Sluggers"
+    excerpt: "A Tableau Public dashboard using a PostgreSQL database that tracked individual Philadelphia Phillies' batting performance during the 2025 season. Designed a multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows) to try and test how big of a factor does age play in a player's ability to bounce back from a slump.\n\n[View on GitHub](https://github.com/jlynne2004/slump-dog-sluggers){: .btn .btn--info .btn--small} [View on Tableau Public](tinyurl.com/slump-dog-sluggers){: .btn .btn--primary .btn--small}"
+  - title: "The $97.7M Hit Drought Tracker"
+    excerpt: "A Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.\n\n[View the tracker on Streamlit](https://phillies-85m-drought-tracker.streamlit.app/){: .btn .btn--primary .btn--small}"
+  - title: "Workout Wednesday Challenges"
+    excerpt: "Building technical skills through weekly Tableau visualization challenges that require creative problem-solving, dashboard design, and advanced techniques.\n\n[View my solutions on Tableau Public](https://public.tableau.com/app/profile/jessica.hayden/vizzes){: .btn .btn--primary .btn--small}"
 ---
 
 <p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on throughout my career and the tools I used to solve them.</p>
@@ -22,10 +29,14 @@ classes: wide
   <p>A reusable Python toolkit that automatically de-identifies patient data to meet HIPAA Safe Harbor standards.</p>
 
   <span class="jh-star-label">The Result</span>
-  <p>Reduced de-identification time from hours to minutes with a production-ready, open-source toolkit now available to any healthcare organization.</p>
+  <p class="notice--primary">Reduced de-identification time from hours to minutes with a production-ready, open-source toolkit now available to any healthcare organization.</p>
 
-  <div class="jh-tools">
-    <strong>Tools:</strong> PostgreSQL, Python (pandas, Faker, pyodbc), Streamlit, HIPAA Safe Harbor standards
+  <span class="jh-star-label">Tools</span>
+  <div class="jh-tool-badges">
+    <span class="jh-tool-badge">PostgreSQL</span>
+    <span class="jh-tool-badge">Python (pandas, Faker, pyodbc)</span>
+    <span class="jh-tool-badge">Streamlit</span>
+    <span class="jh-tool-badge">HIPAA Safe Harbor standards</span>
   </div>
 
   <div class="jh-project-links">
@@ -48,10 +59,17 @@ classes: wide
   <p>Identified the root cause of those duplicate records, quantified the scope of the problem, and developed both immediate workarounds and long-term solutions.</p>
 
   <span class="jh-star-label">The Result</span>
-  <p>Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
+  <p class="notice--primary">Restored accurate patient-provider matching for 1,500+ affected records and eliminated queue assignment failures that were delaying patient care.</p>
 
-  <div class="jh-tools">
-    <strong>Tools:</strong> SQL Server, T-SQL, Python, Microsoft Excel, data profiling, gap analysis, cross-functional stakeholder management
+  <span class="jh-star-label">Tools</span>
+  <div class="jh-tool-badges">
+    <span class="jh-tool-badge">SQL Server</span>
+    <span class="jh-tool-badge">T-SQL</span>
+    <span class="jh-tool-badge">Python</span>
+    <span class="jh-tool-badge">Microsoft Excel</span>
+    <span class="jh-tool-badge">data profiling</span>
+    <span class="jh-tool-badge">gap analysis</span>
+    <span class="jh-tool-badge">cross-functional stakeholder management</span>
   </div>
 </div>
 
@@ -67,11 +85,18 @@ classes: wide
   <p>Using the provided auto sales dataset, I created two dashboards: one for sales performance tracking and the other for service operations monitoring.</p>
 
   <span class="jh-star-label">The Result</span>
-  <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting in multiple industries.</p> 
-  <p>I also earned 100% on the final project evaluation, earning a certification for that course, and wanted to show them off. &#128513;</p>
+  <div class="notice--primary">
+    <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting in multiple industries.</p>
+    <p>I also earned 100% on the final project evaluation, earning a certification for that course, and wanted to show them off. &#128513;</p>
+  </div>
 
-  <div class="jh-tools">
-    <strong>Tools:</strong> Looker Studio, dashboard design, KPI development, data visualization, business intelligence
+  <span class="jh-star-label">Tools</span>
+  <div class="jh-tool-badges">
+    <span class="jh-tool-badge">Looker Studio</span>
+    <span class="jh-tool-badge">dashboard design</span>
+    <span class="jh-tool-badge">KPI development</span>
+    <span class="jh-tool-badge">data visualization</span>
+    <span class="jh-tool-badge">business intelligence</span>
   </div>
 
   <div class="jh-project-links">
@@ -88,21 +113,7 @@ classes: wide
 
 <h2 class="jh-section-title">Additional Work</h2>
 
-**Fun, Personal Projects**
-
-*Slump Dog Sluggers* - a Tableau Public dashboard using a PostgreSQL database that tracked individual Philadelphia Phillies' batting performance during the 2025 season. Designed a multi-timeframe rolling average analysis (7-game, 14-game, 30-game windows) to try and test how big of a factor does age play in a player's ability to bounce back from a slump.
-
-<a href="https://github.com/jlynne2004/slump-dog-sluggers" class="btn btn--info" target="_blank" rel="noopener">View on GitHub</a> <a href="tinyurl.com/slump-dog-sluggers" class="btn btn--primary" target="_blank" rel="noopener">View on Tableau Public</a> 
-
-*The $97.7M Hit Drought Tracker* - a Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.
-
-View the tracker here: <a href="https://phillies-85m-drought-tracker.streamlit.app/">Streamlit</a>
-
-**Workout Wednesday Challenges**
-
-Building technical skills through weekly Tableau visualization challenges that require creative problem-solving, dashboard design, and advanced techniques.
-
-View my solutions on [Tableau Public](https://public.tableau.com/app/profile/jessica.hayden/vizzes){:target="_blank"}.
+{% include feature_row id="feature_row_extra" %}
 
 ---
 
