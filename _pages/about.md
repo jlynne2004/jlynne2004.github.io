@@ -20,21 +20,21 @@ Every healthcare leader knows that clean data is vital for operations, complianc
 This manual process doesn't just waste time; it introduces data quality risks and pulls your team away from their actual jobs.
 
 ### How I Help: Secure, Budget-Friendly Automation
-I bridge that gap. Based in New Jersey and serving clients nationwide, I build custom, **HIPAA-conscious** data solutions that automate your existing manual workflows remotely.
+Based in New Jersey and serving clients nationwide, I build custom, **HIPAA-conscious** data solutions that automate your existing manual workflows remotely.
 
-By leveraging powerful, open-source programming like **Python** alongside robust **SQL** databases, I create highly efficient reporting systems without forcing your organization into expensive, recurring Business Intelligence (BI) software licenses. You get enterprise-grade data reliability on a mid-size budget.
+By leveraging powerful, open-source tools like **Python** and **SQL**, I create highly efficient reporting systems without forcing your organization into expensive, recurring Business Intelligence (BI) software licenses. You get enterprise-grade data reliability on a mid-size budget.
 
 <div style="clear: both;"></div>
 
 ## My Background & Expertise
 
 **Persante Health Care**<br>
-*Report Automation Lead · (3.5 Years)*<br>
+*Report Automation Lead · 3.5 Years*<br>
 Spearheaded data pipelines, introduced custom Python workflows to replace manual reporting, and eliminated thousands in unnecessary licensing fees.
 {: .notice}
 
 **InsPro Technologies**<br>
-*Data Analyst · (5 Years)*<br>
+*Data Analyst · 5 Years*<br>
 Audited general ledger/claims extract discrepancies, and optimized client invoicing speeds using advanced estimation workflows.
 {: .notice}
 
@@ -65,7 +65,7 @@ Audited general ledger/claims extract discrepancies, and optimized client invoic
 
 ## Why Partner With Me?
 
-* **HIPAA-Concious Infrastructure:** Data privacy is not an afterthought—it is baked into every script, query, and pipeline I deploy.
+* **HIPAA-Conscious Infrastructure:** Data privacy is not an afterthought—it is baked into every script, query, and pipeline I deploy.
 * **Focus on Data Quality:** Automated validation checks mean you can actually trust your numbers.
 * **Zero Software Bloat:** I use the right tools for your specific budget, saving you thousands in unnecessary tech stack fees.
 
@@ -75,4 +75,4 @@ Audited general ledger/claims extract discrepancies, and optimized client invoic
 
 Let's discuss how to automate your healthcare data workflows safely and within your budget.
 
-[Schedule a Consultation Call](#){: .btn .btn--primary .btn--large} [View My Portfolio](/portfolio/){: .btn .btn--info .btn--large}
+[Schedule a Consultation Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary .btn--large} [View My Portfolio](/portfolio/){: .btn .btn--info .btn--large}
