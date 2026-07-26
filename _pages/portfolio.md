@@ -84,11 +84,11 @@ feature_row_extra:
   <p>Healthcare practices need to identify at-risk patients and prioritize retention outreach, but predicting churn accurately and translating it into actionable business decisions isn't as simple as it sounds.</p>
   
   <span class="jh-star-label">What I Built</span>
-  <p>A synthetic patient dataset generator and a full churn-prediction pipeline -- EDA, Random Forest model with threshold tuning, feature importance validation across two models, and a revenue-at-risk layer to prioritize outreach.</p>
+  <p>A synthetic patient dataset generator and a full churn-prediction pipeline — EDA, Random Forest model with threshold tuning, feature importance validation across two models, and a revenue-at-risk layer to prioritize outreach.</p>
 
   <span class="jh-star-label">The Result</span>
   <div class="notice--primary">
-    <p>Identified billing issues as the strongest churn driver, with Distance_To_Facility_In_Miles and an insurance type of 'Self Pay' also contributing. Built a revenue-at-risk model surfacing $52K in monthly revenue tied to at-risk patients.</p>
+    <p>Identified billing issues as the strongest churn driver, with Distance To Facility (Miles) and an Insurance Type of 'Self Pay' also contributing. Built a revenue-at-risk model surfacing $52K in monthly revenue tied to at-risk patients.</p>
   </div>
 
   <span class="jh-star-label">Tools</span>
