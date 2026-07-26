@@ -13,6 +13,9 @@ feature_row_extra:
     excerpt: "A Streamlit dashboard set up to give a quick snapshot of the stats for the Phillies' top 4 hitters during the 2026 season and testing how effective they are compared to the rest of the team. Also includes in memoriam, injured reserved, and restricted list trackers.\n\n[View the tracker on Streamlit](https://phillies-85m-drought-tracker.streamlit.app/){: .btn .btn--primary .btn--small}"
   - title: "Workout Wednesday Challenges"
     excerpt: "Building technical skills through weekly Tableau visualization challenges that require creative problem-solving, dashboard design, and advanced techniques.\n\n[View my solutions on Tableau Public](https://public.tableau.com/app/profile/jessica.hayden/vizzes){: .btn .btn--primary .btn--small}"
+  - title: "IBM Data Visualization Course Final Project"
+    exceprt: "Built two dashboards (sales performance and service operations tracking) using a provided auto sales dataset as the capstone for IBM's Data Visualization course - part of my ongoing IBM Data Analyst Professional Certification. Earned 100% on the final evaluation.\n\n
+    [View Certificate](https://www.coursera.org/account/accomplishments/verify/VIWT9WKIZDSM){: .btn .btn--info .btn--small}"
 ---
 
 <p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on throughout my career and the tools I used to solve them.</p>
@@ -76,27 +79,25 @@ feature_row_extra:
 ---
 
 <div class="jh-project">
-  <h3>IBM Data Visualization Final Project - Sales &amp; Service Dashboards</h3>
+  <h3>Patient Churn Prediction Model</h3>
 
   <span class="jh-star-label">The Problem</span>
-  <p>As part of the coursework for <strong>Coursera's IBM Data Analyst Professional Certificate</strong> program, I had to build two dashboards using Looker Studio as a final project for their <em>Data Visualization and Dashboards with Excel and Cognos</em> course.</p>
+  <p>Healthcare practices need to identify at-risk patients and prioritize retention outreach, but predicting churn accurately and translating it into actionable business decisions isn't as simple as it sounds.</p>
   
   <span class="jh-star-label">What I Built</span>
-  <p>Using the provided auto sales dataset, I created two dashboards: one for sales performance tracking and the other for service operations monitoring.</p>
+  <p>A synthetic patient dataset generator and a full churn-prediction pipeline -- EDA, Random Forest model with threshold tuning, feature importance validation across two models, and a revenue-at-risk layer to prioritize outreach.</p>
 
   <span class="jh-star-label">The Result</span>
   <div class="notice--primary">
-    <p>While this isn't healthcare related, I believe the same patterns found in these dashboards can be applied to quality metrics and operational reporting in multiple industries.</p>
-    <p>I also earned 100% on the final project evaluation, earning a certification for that course, and wanted to show them off. &#128513;</p>
+    <p>Identified billing issues and an insurance type of 'Self Pay' as the strongest churn drivers. Built a revenue-at-risk model surfacing $52K in monthly revenue tied to at-risk patients.</p>
   </div>
 
   <span class="jh-star-label">Tools</span>
   <div class="jh-tool-badges">
-    <span class="jh-tool-badge">Looker Studio</span>
-    <span class="jh-tool-badge">dashboard design</span>
-    <span class="jh-tool-badge">KPI development</span>
-    <span class="jh-tool-badge">data visualization</span>
-    <span class="jh-tool-badge">business intelligence</span>
+    <span class="jh-tool-badge">Python (pandas, scikit-learn, numpy)</span>
+    <span class="jh-tool-badge">Random Forest</span>
+    <span class="jh-tool-badge">statistical testing (chi-square, correlation)</span>
+    <span class="jh-tool-badge">Jupyter</span>
   </div>
 
   <div class="jh-project-links">
