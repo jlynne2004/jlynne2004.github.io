@@ -99,15 +99,6 @@ feature_row_extra:
     <span class="jh-tool-badge">statistical testing (chi-square, correlation)</span>
     <span class="jh-tool-badge">Jupyter</span>
   </div>
-
-  <div class="jh-project-links">
-    <a href="https://www.coursera.org/account/accomplishments/verify/VIWT9WKIZDSM" class="btn btn--primary" target="_blank" rel="noopener">View Certificate</a>
-  </div>
-
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Sales tab.png" alt="Sales Dashboard" style="width: 48%; max-width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/Data Studio - Service tab.png" alt="Service Dashboard" style="width: 48%; max-width: 600px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-  </div>
 </div>
 
 ---
