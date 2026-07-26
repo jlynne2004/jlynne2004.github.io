@@ -88,7 +88,7 @@ feature_row_extra:
 
   <span class="jh-star-label">The Result</span>
   <div class="notice--primary">
-    <p>Identified billing issues and an insurance type of 'Self Pay' as the strongest churn drivers. Built a revenue-at-risk model surfacing $52K in monthly revenue tied to at-risk patients.</p>
+    <p>Identified billing issues as the strongest churn driver, with Distance_To_Facility_In_Miles and an insurance type of 'Self Pay' also contributing. Built a revenue-at-risk model surfacing $52K in monthly revenue tied to at-risk patients.</p>
   </div>
 
   <span class="jh-star-label">Tools</span>
