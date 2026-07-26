@@ -14,7 +14,7 @@ feature_row_extra:
   - title: "Workout Wednesday Challenges"
     excerpt: "Building technical skills through weekly Tableau visualization challenges that require creative problem-solving, dashboard design, and advanced techniques.\n\n[View my solutions on Tableau Public](https://public.tableau.com/app/profile/jessica.hayden/vizzes){: .btn .btn--primary .btn--small}"
   - title: "IBM Data Visualization Course Final Project"
-    exceprt: "Built two dashboards (sales performance and service operations tracking) using a provided auto sales dataset as the capstone for IBM's Data Visualization course - part of my ongoing IBM Data Analyst Professional Certification. Earned 100% on the final evaluation.\n\n[View Certificate](https://www.coursera.org/account/accomplishments/verify/VIWT9WKIZDSM){: .btn .btn--info .btn--small}"
+    exceprt: "Built two dashboards (sales performance and service operations tracking) using a provided auto sales dataset as the capstone for IBM's Data Visualization course - part of my ongoing IBM Data Analyst Professional Certification. Earned 100% on the final evaluation.\n\n[View Certificate](https://www.coursera.org/account/accomplishments/verify/VIWT9WKIZDSM){: .btn .btn--primary .btn--small}"
 ---
 
 <p style="font-size:1.05em; color:#444; margin-bottom:2em;">Explore the projects I've worked on throughout my career and the tools I used to solve them.</p>
