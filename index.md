@@ -1,23 +1,16 @@
 ---
-layout: single
-title: "Operational Analytics for Healthcare Teams"
-seo_title: "Healthcare Data Consultant"
-description: "SQL and Python expert helping small healthcare organizations and nonprofits automate reporting, fix data quality, and stay HIPAA-compliant."
-excerpt: "Automation, dashboards, and reporting workflows for teams overwhelmed by manual processes."
-author_profile: false
+layout: splash
+title: "Stop Wasting Hours on Manual Processes"
+seo_title: "Data Analyst & Consultant"
+description: "Data Analyst & Consultant specializing in process automation, SQL/Python pipelines, and data quality. I help small to mid-size organizations and nonprofits eliminate manual tasks and build reliable pipelines. Available for consulting and full-time remote roles."
+excerpt: "Building clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Available for contract, consulting, and select full-time roles."
+author_profile: true
 classes: wide
 ---
 
-<p class="jh-hero-excerpt">Automation, dashboards, and reporting workflows for teams overwhelmed by manual processes.</p>
+<p class="jh-hero-excerpt">Building clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Available for contract, consulting, and select full-time roles.</p>
 
-<div class="jh-hero-actions">
-  <a href="/portfolio/" class="btn btn--primary">View My Portfolio</a>
-  <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Call</a>
-</div>
-
-<h2 class="jh-section-title">Spend Less Time Building Reports, More Time Using Them</h2>
-<p>Manual reporting shouldn't consume hours of your team's week.</p>
-<p>I help healthcare organizations automate reporting workflows, improve data quality, and build HIPAA-conscious processes that save time and reduce risk.</p>
+<h2 class="jh-section-title">Career Highlights</h2>
 
 <div class="stat-row">
   <div class="stat">
@@ -34,6 +27,15 @@ classes: wide
   </div>
 </div>
 
+<h2 class="jh-section-title">What Brings You Here?</h2>
+<h3>Are you a Recruiter or Hiring Manager?</h3>
+<p>I'm open to <b>Data Analyst, Process Automation, Data Quality, Systems Analysis</b>, and related roles in New Jersey or Colorado (in-office or hybrid) or remote nationwide.</p>
+<a href="https://www.linkedin.com/in/jessica-hayden85/" class="btn btn--primary">View My LinkedIn</a>
+
+<h3>Are you a Potential Client?</h3>
+<p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data.</b></p>
+<p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
+<a href="/services/" class="btn btn--primary">View My Services</a>
 ---
 <h2 class="jh-section-title">What I Offer</h2>
 
