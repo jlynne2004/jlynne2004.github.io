@@ -8,9 +8,8 @@ author_profile: false
 classes: wide
 ---
 
-<h1>Stop Wasting Time on Manual Processes</h1>
-<h2>I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours.</h2>
-<p>Available for contract, consulting, and full-time roles.</p>
+<h1>Stop Wasting Hours on Manual Processes</h1>
+<p>I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Letting you get back to actually analyzing the data and gaining insights that will improve your business.</p>
 
 <h2 class="jh-section-title">Career Highlights</h2>
 
