@@ -1,15 +1,14 @@
 ---
-#layout: single
-#title: "Stop Wasting Hours on Manual Processes"
+layout: splash
+title: "Stop Wasting Hours on Manual Processes"
 seo_title: "Data Analyst & Consultant"
 description: "Data Analyst & Consultant specializing in process automation, SQL/Python pipelines, and data quality. I help small to mid-size organizations and nonprofits eliminate manual tasks and build reliable pipelines. Available for consulting and full-time remote roles."
-excerpt: "Building clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Available for contract, consulting, and select full-time roles."
-author_profile: false
-classes: wide
+excerpt: "I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Letting you get back to actually analyzing the data and gaining insights that will improve your business."
+header:
+  overlay_color: "#1E3A5F"
+  overlay_image: /assets/hero-bg.svg
+  overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
 ---
-
-<h1>Stop Wasting Hours on Manual Processes</h1>
-<p>I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Letting you get back to actually analyzing the data and gaining insights that will improve your business.</p>
 
 <h2 class="jh-section-title">Career Highlights</h2>
 
