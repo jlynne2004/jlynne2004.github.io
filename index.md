@@ -4,7 +4,7 @@
 seo_title: "Data Analyst & Consultant"
 description: "Data Analyst & Consultant specializing in process automation, SQL/Python pipelines, and data quality. I help small to mid-size organizations and nonprofits eliminate manual tasks and build reliable pipelines. Available for consulting and full-time remote roles."
 excerpt: "Building clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Available for contract, consulting, and select full-time roles."
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
