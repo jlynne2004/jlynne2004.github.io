@@ -1,6 +1,6 @@
 # Site Settings
 title: "Jess Hayden Consulting"
-subtitle: "Independent Data & Automation Consultant"
+subtitle: "Report Automation & Data Quality"
 description: "Independent data consultant specializing in report automation and data quality. I help organizations eliminate manual tasks and build reliable pipelines."
 url: "https://jesshaydenconsulting.com"
 baseurl: ""
@@ -15,7 +15,7 @@ og_image: "/assets/jessica-profile.jpg"
 # Author
 author:
   name: "Jess Hayden"
-  bio: "Independent Data Consultant | SQL · Python | Process Automation · Data Quality | Proactive problem-solver"
+  bio: "Independent Data Consultant | SQL · Python | Report Automation · Data Quality | Proactive problem-solver"
   location: "Marlton, NJ area"
   email: "jlynne.hayden@gmail.com"
   links:
