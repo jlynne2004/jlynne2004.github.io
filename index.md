@@ -1,21 +1,19 @@
 ---
-layout: splash
+layout: single
 title: "Operational Analytics for Healthcare Teams"
 seo_title: "Healthcare Data Consultant"
 description: "SQL and Python expert helping small healthcare organizations and nonprofits automate reporting, fix data quality, and stay HIPAA-compliant."
 excerpt: "Automation, dashboards, and reporting workflows for teams overwhelmed by manual processes."
-header:
-  overlay_color: "#1E3A5F"
-  overlay_image: /assets/hero-bg.svg
-  overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
-  actions:
-    - label: "View My Portfolio"
-      url: "/portfolio/"
-      btn_class: "btn--primary"
-    - label: "Schedule a Call"
-      url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
-      btn_class: "btn--info"
+author_profile: false
+classes: wide
 ---
+
+<p class="jh-hero-excerpt">Automation, dashboards, and reporting workflows for teams overwhelmed by manual processes.</p>
+
+<div class="jh-hero-actions">
+  <a href="/portfolio/" class="btn btn--primary">View My Portfolio</a>
+  <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Schedule a Call</a>
+</div>
 
 <h2 class="jh-section-title">Spend Less Time Building Reports, More Time Using Them</h2>
 <p>Manual reporting shouldn't consume hours of your team's week.</p>
