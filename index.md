@@ -10,6 +10,14 @@ header:
   overlay_filter: "linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.80) 100%)"
 ---
 
+<h2 class="jh-section-title">Welcome!</h2>
+<img src="/assets/jessica-profile.jpg" alt="Jess Hayden, healthcare data specialist and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
+<p>Hi, I'm Jessica. Founder and CEO of Jess Hayden Consulting.
+
+I'm a Data Analyst who specializes in process automation and data quality, I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better. 
+
+Check out some of my career highlights below.</p>
+
 <h2 class="jh-section-title">Career Highlights</h2>
 
 <div class="stat-row">
@@ -38,10 +46,10 @@ header:
   <div style="flex: 1;">
     <h3>Are you a Potential Client?</h3>
     <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data.</b></p>
-    <p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
     <a href="/services/" class="btn btn--primary">View My Services</a>
   </div>
 </div>
+<p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
 
 ---
 
