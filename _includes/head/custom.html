@@ -195,20 +195,26 @@
   .jh-booking-banner__inner {
     max-width: 1600px;
     margin: 0 auto;
-    padding: 0.6em 3em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    padding: 0.6em 3em 0.6em 0;
+    overflow: hidden;
+  }
+  .jh-booking-banner__track {
+    display: inline-flex;
+    width: max-content;
+    animation: jh-marquee 22s linear infinite;
+  }
+  .jh-booking-banner:hover .jh-booking-banner__track {
+    animation-play-state: paused;
   }
   .jh-booking-banner__text {
     display: inline-flex;
     align-items: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
     gap: 0.6em;
-    flex-wrap: wrap;
-    justify-content: center;
     font-size: 0.9em;
     font-weight: 600;
+    padding-left: 3em;
   }
   .jh-booking-banner__cta {
     color: #1E3A5F !important;
@@ -231,8 +237,20 @@
     padding: 0 0.2em;
   }
   .jh-booking-banner__dismiss:hover { color: #ffffff; }
+  @keyframes jh-marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .jh-booking-banner__track {
+      animation: none;
+    }
+    .jh-booking-banner__text[aria-hidden="true"] {
+      display: none;
+    }
+  }
   @media (max-width: 600px) {
-    .jh-booking-banner__inner { padding: 0.6em 2.2em; }
+    .jh-booking-banner__inner { padding: 0.6em 2.2em 0.6em 0; }
     .jh-booking-banner__text { font-size: 0.8em; }
   }
 

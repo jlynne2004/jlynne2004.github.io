@@ -5,12 +5,20 @@
 {% if booking_text %}
 <div id="jh-booking-banner" class="jh-booking-banner" data-banner-text="{{ booking_text | escape }}" hidden>
   <div class="jh-booking-banner__inner">
-    <span class="jh-booking-banner__text">
-      {{ booking_text }}
-      {% if booking_cta_url %}
-        <a class="jh-booking-banner__cta" href="{{ booking_cta_url }}" target="_blank" rel="noopener">{{ booking_cta_text }} &rarr;</a>
-      {% endif %}
-    </span>
+    <div class="jh-booking-banner__track">
+      <span class="jh-booking-banner__text">
+        {{ booking_text }}
+        {% if booking_cta_url %}
+          <a class="jh-booking-banner__cta" href="{{ booking_cta_url }}" target="_blank" rel="noopener">{{ booking_cta_text }} &rarr;</a>
+        {% endif %}
+      </span>
+      <span class="jh-booking-banner__text" aria-hidden="true">
+        {{ booking_text }}
+        {% if booking_cta_url %}
+          <a class="jh-booking-banner__cta" href="{{ booking_cta_url }}" tabindex="-1">{{ booking_cta_text }} &rarr;</a>
+        {% endif %}
+      </span>
+    </div>
   </div>
   <button type="button" class="jh-booking-banner__dismiss" aria-label="Dismiss banner">&times;</button>
 </div>
