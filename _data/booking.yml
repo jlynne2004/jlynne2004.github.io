@@ -3,7 +3,7 @@
 # Changing this text automatically re-shows the banner to visitors
 # who previously dismissed an older version.
 status_text: 
-  - "Currently booking for Q3 2026"
+  #- "Currently booking for Q3 2026"
   - "Claim your free Data Quality Audit (only until 12/31/2026)"
 cta_text: "Schedule a call"
 cta_url: "https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call"
