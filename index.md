@@ -79,7 +79,7 @@ header:
       &#10004; Validation checks<br>
       &#10004; Written findings &amp; recommendations
     </p>
-    <div class="jh-price">Starting at $1,200</div>
+    <div class="jh-price"><del>Starting at $1,200</del> FREE for a limited time!</div>
   </div>
 
   <div class="jh-service-card">
