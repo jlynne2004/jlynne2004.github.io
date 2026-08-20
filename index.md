@@ -12,11 +12,13 @@ header:
 
 <h2 class="jh-section-title">Welcome!</h2>
 <img src="/assets/jessica-profile.jpg" alt="Jess Hayden, data analyst and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
-<p>Hi, I'm Jessica, Founder and CEO of Jess Hayden Consulting.</p>
+<p>Hi, I'm Jessica. Founder and CEO of Jess Hayden Consulting.</p>
 
-<p>I'm a Data Analyst who specializes in process automation and data quality. I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better.</p>
+<p>Thanks for visiting my website. Are you dealing with reporting workflows that take too long to process? Too many duplicates and NULL values in your dataset? Do you just need someone to help you clean and automate your reporting processes so you can get back to understanding the data?</p>
 
-<p>Check out some of my career highlights below.</p>
+<p>You've come to the right place. Check out the rest of my website to find out more about me, the services I provide, and get a glimpse at my portfolio.</p>
+
+<p>Interested in hiring me? Fill out the Contact Form below and let's talk!</p>
 
 <h2 class="jh-section-title">Career Highlights</h2>
 
@@ -45,7 +47,7 @@ header:
   </div>
   <div style="flex: 1;">
     <h3>Are you a Potential Client?</h3>
-    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data</b> so they can focus on making better business decisions isntead of fighting with the data.</p>
+    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data</b> so they can focus on making better business decisions instead of fighting with the data.</p>
     <a href="/services/" class="btn btn--primary">View My Services</a>
   </div>
 </div>
