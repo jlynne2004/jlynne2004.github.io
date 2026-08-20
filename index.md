@@ -12,9 +12,11 @@ header:
 
 <h2 class="jh-section-title">Welcome!</h2>
 <img src="/assets/jessica-profile.jpg" alt="Jess Hayden, data analyst and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
-<p>Hi, I'm Jessica. Founder and CEO of Jess Hayden Consulting.</br></br>
-I'm a Data Analyst who specializes in process automation and data quality, I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better.</br></br>
-Check out some of my career highlights below.</p>
+<p>Hi, I'm Jessica, Founder and CEO of Jess Hayden Consulting.</p>
+
+<p>I'm a Data Analyst who specializes in process automation and data quality, I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better.</p>
+
+<p>Check out some of my career highlights below.</p>
 
 <h2 class="jh-section-title">Career Highlights</h2>
 
