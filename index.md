@@ -3,7 +3,7 @@ layout: splash
 title: "Stop Wasting Hours on Manual Processes"
 seo_title: "Data Analyst & Consultant"
 description: "Data Analyst & Consultant specializing in process automation, SQL/Python pipelines, and data quality. I help small to mid-size organizations and nonprofits eliminate manual tasks and build reliable pipelines. Available for consulting and full-time remote roles."
-excerpt: "I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours. Letting you get back to actually analyzing the data and gaining insights that will improve your business."
+excerpt: "I build clean data pipelines and automated reporting workflows that eliminate manual errors and save hundreds of hours—letting you get back to actually analyzing and understanding the data."
 header:
   overlay_color: "#1E3A5F"
   overlay_image: /assets/hero-bg.svg
@@ -14,7 +14,7 @@ header:
 <img src="/assets/jessica-profile.jpg" alt="Jess Hayden, data analyst and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
 <p>Hi, I'm Jessica, Founder and CEO of Jess Hayden Consulting.</p>
 
-<p>I'm a Data Analyst who specializes in process automation and data quality, I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better.</p>
+<p>I'm a Data Analyst who specializes in process automation and data quality. I like taking messy data, inefficient processes, and problems without an obvious solution and figuring out how to make them work better.</p>
 
 <p>Check out some of my career highlights below.</p>
 
@@ -45,10 +45,11 @@ header:
   </div>
   <div style="flex: 1;">
     <h3>Are you a Potential Client?</h3>
-    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data.</b></p>
+    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data</b> so they can focus on making better business decisions isntead of fighting with the data.</p>
     <a href="/services/" class="btn btn--primary">View My Services</a>
   </div>
 </div>
+
 <p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
 
 ---
