@@ -114,7 +114,7 @@ header:
 <p>I'm actually offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</b>
 <p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
 <p><b>No cost. No obligation. Just useful information you can act on.</b></p>
-<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit rarr;</a>
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 
 ---
 
