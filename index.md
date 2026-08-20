@@ -47,7 +47,7 @@ header:
   </div>
   <div style="flex: 1;">
     <h3>Are you a Potential Client?</h3>
-    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data</b> so they can focus on making better business decisions instead of fighting with the data.</p>
+    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data</b> so they can focus on making better business decisions.</p>
     <a href="/services/" class="btn btn--primary">View My Services</a>
   </div>
 </div>
@@ -61,39 +61,53 @@ header:
 <div class="jh-services-grid">
 
   <div class="jh-service-card">
-    <h3>&#128311; Reporting Automation Starter</h3>
-    <p>Turn manual, spreadsheet-driven reporting into automated pipelines.</p>
+    <h3>&#128311; Process & Reporting Automation</h3>
+    <p>Replace repetitive manual work with reliable, repeatable workflows.</p>
+    <p><b>Examples:</b></p>
     <p>
-      &#10004; SQL &amp; Python automation<br>
-      &#10004; Scheduled report delivery<br>
-      &#10004; Documentation &amp; training handoff
+      &#10004; Excel/reporting automation<br>
+      &#10004; SQL/Python workflows<br>
+      &#10004; Data transformation<br>
+      &#10004; Document generations<br>
+      &#10004; File processing &amp; delivery<br>
+      &#10004; Recurring reporting
     </p>
-    <div class="jh-price">Starting at $2,500</div>
+    <div class="jh-price">Starting at $2,500. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>&#128311; Data Quality Audit</h3>
-    <p>Find and fix what's undermining your data before it hits a report.</p>
+    <h3>&#128311; Data Quality & Cleanup</h3>
+    <p>Find the inconsistencies, duplicates, and underlying problems affecting your data.</p>
+    <p><b>Examples:</b></p>
     <p>
-      &#10004; Duplicate &amp; inconsistency review<br>
-      &#10004; Validation checks<br>
-      &#10004; Written findings &amp; recommendations
+      &#10004; Duplicate detection<br>
+      &#10004; Data validation<br>
+      &#10004; Data reconciliation<br>
+      &#10004; Data profiling<br>
+      &#10004; Root cause analysis<br>
+      &#10004; Data quality recommendations
     </p>
-    <div class="jh-price"><del>Starting at $1,200</del> FREE for a limited time!</div>
+    <div class="jh-price">Starting at $1,200. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>&#128311; Secure Workflow Documentation</h3>
-    <p>HIPAA-conscious review of how sensitive data moves through your org.</p>
+    <h3>Data & Operations Analysis</h3>
+    <p>Turn operational data into answers you can actually use.</p>
     <p>
-      &#10004; Workflow review<br>
-      &#10004; Process standardization<br>
-      &#10004; Written workflow guide
+    <p><b>Examples:</b></p>
+      &#10004; Trend analysis<br>
+      &#10004; Process analysis<br>
+      &#10004; KPI development<br>
+      &#10004; Operational reporting<br>
+      &#10004; Anomaly investigation<br>
+      &#10004; Decision report
     </p>
-    <div class="jh-price">Starting at $1,500</div>
+    <div class="jh-price">Starting at $1,500. Final pricing depends on scope and complexity.</div>
   </div>
 
 </div>
+<p><b>Not sure where to start?</b></p>
+<p>Schedule a free call and we can look at the workflow or data problem together, determine what's actually happening, and determine whether automation, cleanup, analysis—or something else—is the right solution.</p>
 <a href="/services/" class="btn btn--info">See Full Pricing &amp; Package Details &rarr;</a>
 <!-- <p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p> -->
 
