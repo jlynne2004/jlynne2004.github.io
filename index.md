@@ -106,11 +106,12 @@ header:
   </div>
 
 </div>
+<a href="/services/" class="btn btn--primary">See Full Pricing &amp; Package Details &rarr;</a>
 <p><b>Not sure where to start?</b></p>
-<p>Schedule a free call and we can look at the workflow or data problem together, determine what's actually happening, and determine whether automation, cleanup, analysis—or something else—is the right solution.</p>
-<a href="/services/" class="btn btn--info">See Full Pricing &amp; Package Details &rarr;</a>
-<!-- <p>Not ready to commit to a full project? Check out my <a href="https://www.fiverr.com/s/rEyo6ly">Fiverr gigs</a> for smaller scoped services.</p> -->
-
+<p>I'm actually offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</b>
+<p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
+<p><b>No cost. No obligation. Just useful information you can act on.</b></p>
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit rarr;</a>
 ---
 <h2 class="jh-section-title">Professional Recommendations</h2>
 
