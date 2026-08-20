@@ -28,14 +28,20 @@ header:
 </div>
 
 <h2 class="jh-section-title">What Brings You Here?</h2>
-<h3>Are you a Recruiter or Hiring Manager?</h3>
-<p>I'm open to <b>Data Analyst, Process Automation, Data Quality, Systems Analysis</b>, and related roles in New Jersey or Colorado (in-office, hybrid) or remote nationwide.</p>
-<a href="https://www.linkedin.com/in/jessica-hayden85/" class="btn btn--primary">View My LinkedIn</a>
 
-<h3>Are you a Potential Client?</h3>
-<p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data.</b></p>
-<p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
-<a href="/services/" class="btn btn--primary">View My Services</a>
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Are you a Recruiter or Hiring Manager?</h3>
+    <p>I'm open to <b>Data Analyst, Process Automation, Data Quality, Systems Analysis</b>, and related roles in New Jersey or Colorado (in-office, hybrid) or remote nationwide.</p>
+    <a href="https://www.linkedin.com/in/jessica-hayden85/" class="btn btn--primary">View My LinkedIn</a>
+  </div>
+  <div style="flex: 1;">
+    <h3>Are you a Potential Client?</h3>
+    <p>I help businesses <b>automate repetitive processes, improve data quality, and make better use of their operational data.</b></p>
+    <p>If your team is spending hours doing something that should take minutes—or you're dealing with data you don't quite trust—let's talk.</p>
+    <a href="/services/" class="btn btn--primary">View My Services</a>
+  </div>
+</div>
 
 ---
 
