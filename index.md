@@ -93,8 +93,8 @@ header:
   <div class="jh-service-card">
     <h3>Data & Operations Analysis</h3>
     <p>Turn operational data into answers you can actually use.</p>
-    <p>
     <p><b>Examples:</b></p>
+    <p>
       &#10004; Trend analysis<br>
       &#10004; Process analysis<br>
       &#10004; KPI development<br>
@@ -107,12 +107,17 @@ header:
 
 </div>
 <a href="/services/" class="btn btn--primary">See Full Pricing &amp; Package Details &rarr;</a>
+
+---
+
 <p><b>Not sure where to start?</b></p>
 <p>I'm actually offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</b>
 <p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
 <p><b>No cost. No obligation. Just useful information you can act on.</b></p>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit rarr;</a>
+
 ---
+
 <h2 class="jh-section-title">Professional Recommendations</h2>
 
 <div class="jh-testimonial">
