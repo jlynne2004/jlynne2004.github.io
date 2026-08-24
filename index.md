@@ -63,23 +63,20 @@ header:
   <div class="jh-service-card">
     <h3>&#128311; AUTOMATE</h3>
     <p>Turn repetitive reporting and operational workflows into reliable, repeatable processes.</p>
-    <div class="jh-price">Starting at $2,500. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
     <h3>&#128311; FIX</h3>
     <p>Find the inconsistencies, duplicates, and underlying problems affecting your data.</p>
-    <div class="jh-price">Starting at $1,200. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
     <h3>&#128311; ANALYZE</h3>
     <p>Use your operational data to uncover trends, bottlenecks, and opportunities.</p>
-    <div class="jh-price">Starting at $1,500. Final pricing depends on scope and complexity.</div>
   </div>
 
 </div>
-<a href="/services/" class="btn btn--primary">See Full Pricing &amp; Service Details &rarr;</a>
+<a href="/services/" class="btn btn--primary">Explore My Services &rarr;</a>
 
 ---
 

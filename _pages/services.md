@@ -11,8 +11,7 @@ sitemap: false
 <h2 class="jh-section-title">Services & Pricing</h2>
 
 {% capture special_offer %}
-## Current Deals:
-### Special Offer!
+## Special Offer!
 Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
 I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
@@ -49,7 +48,7 @@ I'll look at your current process and give you practical recommendations for whe
 
 ### Process & Reporting Automation
 
-<div class="jh-price">$2,500 – $4,500*</div>
+<div class="jh-price">Typical projects: $2,500 – $4,500*</div>
 
 Turn repetitive work into a process that runs itself.
 
@@ -72,7 +71,7 @@ Depending on the project:
 - Before-and-after performance metrics
 
 **Proof:**
-30+ reporting workflows automated
+30+ reporting workflows automated;
 Up to 85% reduction in manual processes
 {: .notice--primary}
 
@@ -84,7 +83,7 @@ Up to 85% reduction in manual processes
 
 ### Data Quality & Cleanup
 
-<div class="jh-price">$1,200 – $2,000*</div>
+<div class="jh-price">Typical projects: $1,200 – $2,000*</div>
 
 I don't just fix bad records. I investigate how they got bad in the first place.
 
@@ -110,7 +109,7 @@ I don't just fix bad records. I investigate how they got bad in the first place.
 
 ### Data & Operations Analysis
 
-<div class="jh-price">$1,500 – $2,800</div>
+<div class="jh-price">Typical projects: $1,500 – $2,800*</div>
 
 Turn operational data into something you can act on.
 
@@ -123,11 +122,9 @@ Turn operational data into something you can act on.
 - Process performance analysis
 - Ad hoc analysis
 
-**Good fit if:** you need documented, defensible processes but don't have
-the internal bandwidth to write them.
+**Proof:** 
+Investigated physician-reported workflow issues and identified duplicate physician IDs as an underlying cause of missing patients from queues.
 {: .notice--primary}
-
-**Timeline:** 1–2 weeks
 
 **Final pricing depends on scope and complexity.*
 
