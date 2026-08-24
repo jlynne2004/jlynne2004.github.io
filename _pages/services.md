@@ -27,12 +27,9 @@ Bring me one of your messiest processes—the one that makes you and your team w
 <h2 class="jh-section-title">How It Works</h2>
 
 1. **Find** — we identify what's actually causing the problem.
-2. **Fixed-price proposal** — you get a scope of work and a single price
-   within 2–3 business days.
-3. **Defined timeline & deliverables** — most projects run 2–4 weeks from
-   kickoff to handoff.
-4. **Optional ongoing support** — once your project is live, a monthly
-   retainer keeps it running smoothly.
+2. **Investigate** — I dig into the data, workflow, and systems to understand what's happening underneath.
+3. **Solve** — I build or recommend a practical solution based on the actual problem—not a predetermined technology.
+4. **Improve** — We measure the result and document what changed.
 
 [Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
 
@@ -120,28 +117,10 @@ Investigated physician-reported workflow issues and identified duplicate physici
 
 </div>
 
-<p style="text-align:center; color:#444; margin-top:1.5em;"><strong>Custom / Larger Projects</strong><br>
-For broader needs — multi-source integrations, custom reporting
-platforms, role-based access controls, or anything spanning multiple
-departments — we'll scope a custom fixed price after the discovery call.</p>
+<p style="text-align:center; color:#444; margin-top:1.5em;"><strong>Custom & Larger Projects</strong><br>
+<b>Have a problem that doesn't fit neatly into one of the services above?</b>
+<br>
+For broader projects involving multiple data sources, complex reporting workflows, integrations, multiple departments, or custom solutions, I'll scope the project based on your specific needs and provide a fixed project price.</p>
+[Lets talk about your project &rarr;](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
 
 ---
-
-<div class="jh-tint-section" markdown="1">
-
-<h2 class="jh-section-title">Care & Maintenance Retainer</h2>
-
-For clients with a completed project who want ongoing support without
-renegotiating scope every time something needs a tweak.
-
-| Tier | Price | Includes |
-|---|---|---|
-| **Basic** | $300/mo | Up to 2 hours/month · priority email support · minor report/query adjustments |
-| **Standard** | $600/mo | Up to 5 hours/month · priority email support · monthly check-in call · proactive monitoring for broken reports |
-
-*Retainers are month-to-month, no long-term contract required. Unused
-hours don't roll over.*
-
-[Schedule a Free Discovery Call](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
-
-</div>
