@@ -10,9 +10,17 @@ sitemap: false
 
 <h2 class="jh-section-title">Services & Pricing</h2>
 
-<p><b>Special Offer (now thru 12/31/2026): FREE Data & Process Audit</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</p>
+{% capture special_offer %}
+### Special Offer!
+Get your FREE Data & Process Audit now thru 12/31/2026.
+Schedule your free discovery call and audit <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call">here</a>.
+{% endcapture %}
 
-# <p>All services start with a free discovery call to talk through your project .</p>
+<div class="notice--success">
+   {{ special_offer | markdownify }}
+</div>
+
+<!-- <p>All services start with a free discovery call to talk through your project .</p> -->
 
 <div class="jh-tint-section" markdown="1">
 
