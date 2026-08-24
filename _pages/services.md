@@ -117,10 +117,9 @@ Investigated physician-reported workflow issues and identified duplicate physici
 
 </div>
 
-<p style="text-align:center; color:#444; margin-top:1.5em;"><strong>Custom & Larger Projects</strong><br>
+<h2 class="jh-section-title">Custom & Larger Projects</h2>
 <b>Have a problem that doesn't fit neatly into one of the services above?</b>
-<br>
-For broader projects involving multiple data sources, complex reporting workflows, integrations, multiple departments, or custom solutions, I'll scope the project based on your specific needs and provide a fixed project price.</p>
+For broader projects involving multiple data sources, complex reporting workflows, integrations, multiple departments, or custom solutions, I'll scope the project based on your specific needs and provide a fixed project price.
 [Lets talk about your project &rarr;](https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call){: .btn .btn--primary}
 
 ---
