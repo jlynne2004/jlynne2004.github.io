@@ -1,7 +1,7 @@
 ---
 permalink: /services/
-title: "Healthcare Data Consulting Services"
-description: "HIPAA-compliant pipelines, data quality solutions, and reporting automation for small healthcare orgs and nonprofits. Free discovery call to scope your project."
+title: "Consulting Services"
+description: "Process automation, SQL/Python pipelines, and data quality services for small to mid-size organizations and nonprofits to help eliminate manual tasks and build reliable pipelines. Available for consulting or full-time remote roles."
 layout: single
 author_profile: false
 classes: wide
@@ -10,8 +10,9 @@ sitemap: false
 
 <h2 class="jh-section-title">Services & Pricing</h2>
 
-<p>Fixed-price packages with a defined scope, so you know exactly what you're
-getting and what it costs before we start — no open-ended hourly billing.</p>
+<p><b>Special Offer (now thru 12/31/2026): FREE Data & Process Audit</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</p>
+
+# <p>All services start with a free discovery call to talk through your project .</p>
 
 <div class="jh-tint-section" markdown="1">
 
