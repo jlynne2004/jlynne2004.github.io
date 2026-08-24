@@ -14,8 +14,9 @@ sitemap: false
 ## Special Offer!
 Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
 <br>
-Bring me one of your messiest processes—the one that makes you and your team want to throw your computer out the window. We'll start with a short discovery call to understand how the process currently works. I'll then review the workflow and identify opportunities to reduce manual work, improve data quality, or eliminate unnecessary steps.
-<br>
+Bring me one of your messiest processes—the one that makes you and your team want to throw your computer out the window.😂
+<br>We'll start with a short discovery call to understand how the process currently works. I'll then review the workflow and identify opportunities to reduce manual work, improve data quality, or eliminate unnecessary steps.
+<br><br>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 </div>
 
