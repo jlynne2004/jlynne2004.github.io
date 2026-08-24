@@ -11,9 +11,11 @@ sitemap: false
 <h2 class="jh-section-title">Services & Pricing</h2>
 
 {% capture special_offer %}
+## Current Deals:
 ### Special Offer!
-Get your FREE Data & Process Audit now thru 12/31/2026.
-Schedule your free discovery call and audit <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call">here</a>.
+Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
+I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.
+<a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 {% endcapture %}
 
 <div class="notice--success">
@@ -39,82 +41,95 @@ Schedule your free discovery call and audit <a href="https://scheduler.zoom.us/j
 
 </div>
 
-<h2 class="jh-section-title">Packages</h2>
+<h2 class="jh-section-title">Services</h2>
 
 <div class="jh-packages-grid">
 
 <div class="jh-pkg-card" markdown="1">
 
-### Healthcare Reporting Automation Starter
+### Process & Reporting Automation
 
-<div class="jh-price">$2,500 – $4,500</div>
+<div class="jh-price">$2,500 – $4,500*</div>
 
-The core offer: turn your manual, spreadsheet-driven reporting into
-automated SQL/Python workflows.
+Turn repetitive work into a process that runs itself.
 
-**What's included:**
-- Discovery & data source mapping (1–3 reports)
-- Automated SQL/Python pipeline build
-- Scheduled report delivery
-- Documentation of the new process
-- 30-minute training handoff call
-- 2 weeks of post-launch support for bug fixes
+**What I can help automate:**
+- Recurring reports
+- Excel-based workflows
+- Data extraction and transformation
+- File processing
+- Data transfers
+- Manual reconciliations
+- Other repetitive operational processes
 
-**Good fit if:** you're spending hours each week manually pulling,
-formatting, or emailing the same reports.
+**What you get:**
+Depending on the project:
+- Automated Python/SQL workflow
+- Redesigned reporting process
+- Automated Excel solution
+- Documentation
+- Error handling/validation
+- Before-and-after performance metrics
+
+**Proof:**
+30+ reporting workflows automated
+Up to 85% reduction in manual processes
 {: .notice--primary}
 
-**Timeline:** 2–4 weeks
-
-*Final price is set after the discovery call, based on number of reports
-and data source complexity — never a surprise, never open-ended.*
+**Final pricing depends on scope and complexity.*
 
 </div>
 
 <div class="jh-pkg-card" markdown="1">
 
-### Data Quality Audit & Cleanup
+### Data Quality & Cleanup
 
-<div class="jh-price">$1,200 – $2,000</div>
+<div class="jh-price">$1,200 – $2,000*</div>
 
-A focused engagement to find and fix what's undermining your data before
-it hits a report or a decision.
+I don't just fix bad records. I investigate how they got bad in the first place.
 
-**What's included:**
-- Review of 1–2 core data sources
-- Duplicate & inconsistency identification
-- Validation checks built for ongoing use
-- Cleanup of existing records
-- Written summary of findings & recommendations
+**Services could include:**
+- Duplicate detection
+- Data profiling
+- Data validation
+- Reconciliation
+- Standardization
+- Root cause analysis
+- Data cleanup
+- Recommendations for preventing recurrence
 
-**Good fit if:** you don't trust the numbers in your current reports, or
-you're about to start an automation project and want clean data first.
+**Proof:**
+1,500+ duplicate physician IDs identified and resolved
 {: .notice--primary}
 
-**Timeline:** 1–2 weeks
+**Final pricing depends on scope and complexity.*
 
 </div>
 
 <div class="jh-pkg-card" markdown="1">
 
-### Secure Data Workflow Documentation
+### Data & Operations Analysis
 
 <div class="jh-price">$1,500 – $2,800</div>
 
-HIPAA-conscious review and documentation of how sensitive data moves
-through your organization.
+Turn operational data into something you can act on.
 
-**What's included:**
-- Workflow review for 1–2 processes handling PHI
-- Documentation of current-state data handling
-- Recommendations for process standardization
-- Written workflow guide your team can follow
+**This can cover:**
+- Reporting
+- KPI development
+- Trend analysis
+- Operational analysis
+- Anomaly investigation
+- Process performance analysis
+- Ad hoc analysis
 
 **Good fit if:** you need documented, defensible processes but don't have
 the internal bandwidth to write them.
 {: .notice--primary}
 
 **Timeline:** 1–2 weeks
+
+**Final pricing depends on scope and complexity.*
 
 </div>
 

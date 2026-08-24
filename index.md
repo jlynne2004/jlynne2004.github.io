@@ -56,62 +56,35 @@ header:
 
 ---
 
-<h2 class="jh-section-title">What I Offer</h2>
+<h2 class="jh-section-title">How I Can Help</h2>
 
 <div class="jh-services-grid">
 
   <div class="jh-service-card">
-    <h3>&#128311; Process & Reporting Automation</h3>
-    <p>Replace repetitive manual work with reliable, repeatable workflows.</p>
-    <p><b>Examples:</b></p>
-    <p>
-      &#10004; Excel/reporting automation<br>
-      &#10004; SQL/Python workflows<br>
-      &#10004; Data transformation<br>
-      &#10004; Document generations<br>
-      &#10004; File processing &amp; delivery<br>
-      &#10004; Recurring reporting
-    </p>
+    <h3>&#128311; AUTOMATE</h3>
+    <p>Turn repetitive reporting and operational workflows into reliable, repeatable processes.</p>
     <div class="jh-price">Starting at $2,500. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>&#128311; Data Quality & Cleanup</h3>
+    <h3>&#128311; FIX</h3>
     <p>Find the inconsistencies, duplicates, and underlying problems affecting your data.</p>
-    <p><b>Examples:</b></p>
-    <p>
-      &#10004; Duplicate detection<br>
-      &#10004; Data validation<br>
-      &#10004; Data reconciliation<br>
-      &#10004; Data profiling<br>
-      &#10004; Root cause analysis<br>
-      &#10004; Data quality recommendations
-    </p>
     <div class="jh-price">Starting at $1,200. Final pricing depends on scope and complexity.</div>
   </div>
 
   <div class="jh-service-card">
-    <h3>Data & Operations Analysis</h3>
-    <p>Turn operational data into answers you can actually use.</p>
-    <p><b>Examples:</b></p>
-    <p>
-      &#10004; Trend analysis<br>
-      &#10004; Process analysis<br>
-      &#10004; KPI development<br>
-      &#10004; Operational reporting<br>
-      &#10004; Anomaly investigation<br>
-      &#10004; Decision report
-    </p>
+    <h3>&#128311; ANALYZE</h3>
+    <p>Use your operational data to uncover trends, bottlenecks, and opportunities.</p>
     <div class="jh-price">Starting at $1,500. Final pricing depends on scope and complexity.</div>
   </div>
 
 </div>
-<a href="/services/" class="btn btn--primary">See Full Pricing &amp; Package Details &rarr;</a>
+<a href="/services/" class="btn btn--primary">See Full Pricing &amp; Service Details &rarr;</a>
 
 ---
 
 <p><b>Not sure where to start?</b></p>
-<p>I'm actually offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</p>
+<p>That's okay! I'm offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</p>
 <p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
 <p><b>No cost. No obligation. Just useful information you can act on.</b></p>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
