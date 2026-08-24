@@ -12,8 +12,8 @@ sitemap: false
 
 <div class="notice--success" markdown="1">
 ### Special Offer!
-Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
-I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.
+<p>Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.</p>
+<p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 </div>
 
