@@ -76,13 +76,14 @@ header:
   </div>
 
 </div>
+<br>
 <a href="/services/" class="btn btn--primary">Explore My Services &rarr;</a>
 
 ---
 
 <p><b>Not sure where to start?</b></p>
 <p>That's okay! I'm offering a free <b>Data & Process Audit now thru 12/31/2026</b> for businesses dealing with manual reporting, messy spreadsheets, duplicate data, or workflows that have become difficult to manage.</p>
-<p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
+<p>Bring me one of your messiest processes—the one that makes you and your team want to throw your computer out the window. We'll start with a short discovery call to understand how the process currently works. I'll then review the workflow and identify opportunities to reduce manual work, improve data quality, or eliminate unnecessary steps.</p>
 <p><b>No cost. No obligation. Just useful information you can act on.</b></p>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 

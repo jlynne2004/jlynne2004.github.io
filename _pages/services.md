@@ -11,9 +11,11 @@ sitemap: false
 <h2 class="jh-section-title">Services & Pricing</h2>
 
 <div class="notice--success" markdown="1">
-### Special Offer!
-<p>Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.</p>
-<p>I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.</p>
+## Special Offer!
+Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
+<br>
+Bring me one of your messiest processes—the one that makes you and your team want to throw your computer out the window. We'll start with a short discovery call to understand how the process currently works. I'll then review the workflow and identify opportunities to reduce manual work, improve data quality, or eliminate unnecessary steps.
+<br>
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
 </div>
 
@@ -23,8 +25,7 @@ sitemap: false
 
 <h2 class="jh-section-title">How It Works</h2>
 
-1. **Free 30-minute discovery call** — we talk through your current
-   process, pain points, and goals.
+1. **Find** — we identify what's actually causing the problem.
 2. **Fixed-price proposal** — you get a scope of work and a single price
    within 2–3 business days.
 3. **Defined timeline & deliverables** — most projects run 2–4 weeks from
@@ -48,17 +49,7 @@ sitemap: false
 
 Turn repetitive work into a process that runs itself.
 
-**What I can help automate:**
-- Recurring reports
-- Excel-based workflows
-- Data extraction and transformation
-- File processing
-- Data transfers
-- Manual reconciliations
-- Other repetitive operational processes
-
-**What you get:**
-Depending on the project:
+**Automation Services could include:**
 - Automated Python/SQL workflow
 - Redesigned reporting process
 - Automated Excel solution
