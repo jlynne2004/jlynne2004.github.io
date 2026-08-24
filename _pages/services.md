@@ -10,15 +10,11 @@ sitemap: false
 
 <h2 class="jh-section-title">Services & Pricing</h2>
 
-{% capture special_offer %}
-## Special Offer!
+<div class="notice--success" markdown="1">
+### Special Offer!
 Get your <b>FREE Data & Process Audit</b> now thru 12/31/2026.
 I'll look at your current process and give you practical recommendations for where automation or data quality improvements could save time reduce errors.
 <a href="https://scheduler.zoom.us/jessica-hayden-i79emd/free-discovery-call" class="btn btn--info">Request Your Free Audit &rarr;</a>
-{% endcapture %}
-
-<div class="notice--success">
-   {{ special_offer | markdownify }}
 </div>
 
 <!-- <p>All services start with a free discovery call to talk through your project .</p> -->
