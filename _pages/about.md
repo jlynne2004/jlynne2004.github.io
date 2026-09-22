@@ -9,8 +9,6 @@ classes: wide
 
 ## My Story
 
-<img src="/assets/jessica-profile.jpg" alt="Jess Hayden, data analyst and consultant based in Marlton, NJ" class="jh-headshot" style="width: 280px; max-width: 100%; border-radius: 8px; float: right; margin: 0 0 1.5em 2em;">
-
 ### Hi, I'm Jess Hayden.
 I'm a Data Analyst and consultant specializing in process automation and data quality.
 
@@ -19,8 +17,6 @@ I like taking messy data, inefficient processes, and problems without an obvious
 A lot of the problems I work on start with something simple: a report that takes hours to create, a repetitive process that everyone has gotten used to doing manually, duplicate or inconsistent data, or a workflow that keeps causing problems and no one is quite sure why.
 
 That's where I come in.
-
-<div style="clear: both;"></div>
 
 ## The Problems I Solve
 
